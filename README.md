@@ -1,17 +1,17 @@
 
-# **law One-Word Domain Names**: Daily Updated List of Available Domains
+# **Law One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available law one-word domains.
+This regularly updated dataset includes the latest available Law one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/law-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **law one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=law&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **Law one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Law&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word law domains.
+- **Domain Name**: High-quality, single-word Law domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available law one-word domain
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain        | status    | attractiveness | demand | length | created          | expires          | registrar           | sectors                               |
-| ------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------- | ------------------------------------- |
-| complete.law  | available | 120            | 21     | 8      |                  |                  |                     | Manufacturing,Retail,Technology       |
-| second.law    | available | 120            | 23     | 6      |                  |                  |                     | General,Mathematics                   |
-| wizard.law    | available | 118            | 42     | 6      |                  |                  |                     | Entertainment,Media,Technology        |
-| tenth.law     | available | 116            | 7      | 5      |                  |                  |                     | Mathematics                           |
-| flat.law      | available | 116            | 23     | 4      |                  |                  |                     | Construction,Real Estate              |
-| tonic.law     | available | 114            | 22     | 5      |                  |                  |                     | Health and Fitness,Medicine,Science   |
-| zero.law      | available | 112            | 49     | 4      |                  |                  |                     | Mathematics                           |
-| acute.law     | available | 112            | 9      | 5      |                  |                  |                     | Mathematics,Medicine,Science          |
-| hotshot.law   | available | 112            | 14     | 7      |                  |                  |                     | Business,Entertainment,Sports         |
-| abstract.law  | expiring  | 108            | 29     | 8      | 11/09/2024 15:24 | 11/09/2025 15:24 | GoDaddy.com, LLC    | Arts,Humanities,Science               |
-| abiding.law   | available | 106            | 5      | 7      |                  |                  |                     | General,Religion                      |
-| teen.law      | available | 104            | 14     | 4      |                  |                  |                     | Education,Entertainment,Healthcare    |
-| active.law    | expired   | 104            | 27     | 6      | 14/07/2020 13:47 | 14/07/2025 13:47 | united-domains GmbH | Health and Fitness,Sports,Travel      |
-| absent.law    | available | 102            | 8      | 6      |                  |                  |                     | Business,Education,Technology         |
-| captive.law   | available | 102            | 14     | 7      |                  |                  |                     | Entertainment,Hospitality,Technology  |
-| eight.law     | available | 102            | 23     | 5      |                  |                  |                     | General,Mathematics                   |
-| extra.law     | available | 102            | 26     | 5      |                  |                  |                     | Fashion,Retail,Technology             |
-| remove.law    | available | 100            | 13     | 6      |                  |                  |                     | Construction,Manufacturing,Technology |
-| eighth.law    | available | 100            | 6      | 6      |                  |                  |                     | Mathematics                           |
-| crack.law     | available | 100            | 20     | 5      |                  |                  |                     | Sports                                |
-| sixth.law     | available | 100            | 8      | 5      |                  |                  |                     | Mathematics                           |
-| third.law     | available | 100            | 15     | 5      |                  |                  |                     | Mathematics                           |
-| abrupt.law    | available | 100            | 3      | 6      |                  |                  |                     | Medicine,Science                      |
-| ninth.law     | available | 100            | 9      | 5      |                  |                  |                     | Mathematics                           |
-| whiz.law      | available | 100            | 12     | 4      |                  |                  |                     | Business,Education,Technology         |
-| adjunct.law   | available | 100            | 5      | 7      |                  |                  |                     | Education                             |
-| whizz.law     | available | 98             | 11     | 5      |                  |                  |                     | Business,Education,Technology         |
-| actual.law    | available | 96             | 22     | 6      |                  |                  |                     | Real Estate,Retail,Technology         |
-| forgiving.law | available | 96             | 3      | 9      |                  |                  |                     | Healthcare,Religion                   |
-| doable.law    | available | 96             | 9      | 6      |                  |                  |                     | Business,Education,Technology         |
+| domain            | status    | attractiveness | demand | length | created          | expires          | registrar                                           | sectors                            |
+| ----------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | --------------------------------------------------- | ---------------------------------- |
+| just.pro          | resell    | 150            | 88     | 4      | 19/04/2010 01:54 | 19/04/2026 00:00 | Spaceship, Inc.                                     | Business,Education,General,Law     |
+| action.site       | available | 128            | 96     | 6      |                  |                  |                                                     | Business,Entertainment,General,Law |
+| action.online     | available | 128            | 96     | 6      |                  |                  |                                                     | Business,Entertainment,General,Law |
+| brief.football    | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.soy         | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.hiv         | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.graphics    | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.tv          | resell    | 124            | 19     | 5      | 03/08/2007 08:37 | 03/08/2026 08:37 | GoDaddy.com, LLC                                    | Business,Education,General,Law     |
+| brief.gg          | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.download    | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.esq         | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.gripe       | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.protection  | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.enterprises | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.tax         | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| trust.expert      | available | 124            | 92     | 5      |                  |                  |                                                     | Business,Finance,Law               |
+| brief.beer        | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.shopping    | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.reise       | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.support     | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.vip         | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.giving      | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.center      | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.uno         | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.estate      | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.cab         | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.gold        | resell    | 124            | 19     | 5      | 09/11/2023 15:15 | 09/11/2025 15:15 | Chengdu West Dimension Digital Technology Co., Ltd. | Business,Education,General,Law     |
+| brief.stream      | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.careers     | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
+| brief.nexus       | available | 124            | 19     | 5      |                  |                  |                                                     | Business,Education,General,Law     |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=law&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Law&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/law-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=law&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/law-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Law&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
