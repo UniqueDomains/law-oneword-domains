@@ -1,62 +1,62 @@
 
-# List of .LAW One Word Domain Names (5,314)
+# List of Law One Word Domain Names (18,747)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/law-oneword-domains.svg?style=flat)]() [![5,314 .LAW one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-5%2C314-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Law-oneword-domains.svg?style=flat)]() [![18,747 Law one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-18%2C747-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential .LAW one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential Law one-word domains still available to buy.
 
-This dataset contains 5,642 .LAW one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,000 Law one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.LAW one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=law-oneword-domains&utm_content=description.top) (5,314) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Law one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Law-oneword-domains&utm_content=description.top) (18,747) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/law-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/law-oneword-domains/blob/main/law.csv"><b>⬇️ CSV (5.64K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/law-oneword-domains/blob/main/law.json"><b>⬇️ JSON (5.64K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=law-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.31K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Law-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Law-oneword-domains/blob/main/Law.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Law-oneword-domains/blob/main/Law.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Law-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (18.75K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.law  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.law      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.law  | available | 58       | 7%     | 9      |           |         |         |
-| abashed.law    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.law     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.law   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.law     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.law    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.law   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.law  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.law  | available | 82       | 5%     | 9      |           |         |         |
-| abdominous.law | available | 56       | 1%     | 10     |           |         |         |
-| abducens.law   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.law   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.law  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.law    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.law | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.law   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.law    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.law  | available | 54       | 3%     | 9      |           |         |         |
-| abide.law      | available | 94       | 15%    | 5      |           |         |         |
-| abiding.law    | available | 106      | 5%     | 7      |           |         |         |
-| abient.law     | available | 54       | 1%     | 6      |           |         |         |
-| ability.law    | available | 92       | 16%    | 7      |           |         |         |
-| abit.law       | available | 66       | 12%    | 5      |           |         |         |
-| abject.law     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.law     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.law  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.law     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.law  | available | 78       | 1%     | 9      |           |         |         |
+| Domain       | Status    | Attract. | Demand | Length | Registrar    | Created          | Expires          |
+| ------------ | --------- | -------- | ------ | ------ | ------------ | ---------------- | ---------------- |
+| law.rich     | available | 82       | 42%    | 3      |              |                  |                  |
+| law.rocks    | available | 82       | 42%    | 3      |              |                  |                  |
+| law.rodeo    | available | 82       | 42%    | 3      |              |                  |                  |
+| law.rsvp     | available | 82       | 42%    | 3      |              |                  |                  |
+| law.sale     | available | 82       | 42%    | 3      |              |                  |                  |
+| law.salon    | resell    | 82       | 42%    | 3      | Sav.com, LLC | 18/01/2025 21:38 | 18/01/2026 21:38 |
+| law.sarl     | available | 82       | 42%    | 3      |              |                  |                  |
+| law.schule   | available | 82       | 42%    | 3      |              |                  |                  |
+| law.science  | available | 82       | 42%    | 3      |              |                  |                  |
+| law.security | available | 82       | 42%    | 3      |              |                  |                  |
+| law.sexy     | available | 82       | 42%    | 3      |              |                  |                  |
+| law.shiksha  | available | 82       | 42%    | 3      |              |                  |                  |
+| law.shoes    | available | 82       | 42%    | 3      |              |                  |                  |
+| law.show     | resell    | 82       | 42%    | 3      | DNSPod, Inc. | 15/10/2020 12:05 | 15/10/2026 12:05 |
+| law.singles  | available | 82       | 42%    | 3      |              |                  |                  |
+| law.site     | available | 82       | 42%    | 3      |              |                  |                  |
+| law.skin     | available | 82       | 42%    | 3      |              |                  |                  |
+| law.soccer   | available | 82       | 42%    | 3      |              |                  |                  |
+| law.software | available | 82       | 42%    | 3      |              |                  |                  |
+| law.soy      | available | 82       | 42%    | 3      |              |                  |                  |
+| law.space    | available | 82       | 42%    | 3      |              |                  |                  |
+| law.spot     | available | 82       | 42%    | 3      |              |                  |                  |
+| law.storage  | available | 82       | 42%    | 3      |              |                  |                  |
+| law.store    | available | 82       | 42%    | 3      |              |                  |                  |
+| law.study    | available | 82       | 42%    | 3      |              |                  |                  |
+| law.supplies | available | 82       | 42%    | 3      |              |                  |                  |
+| law.surf     | available | 82       | 42%    | 3      |              |                  |                  |
+| law.surgery  | available | 82       | 42%    | 3      |              |                  |                  |
+| law.sydney   | available | 82       | 42%    | 3      |              |                  |                  |
+| law.talk     | available | 82       | 42%    | 3      |              |                  |                  |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/law-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/law-oneword-domains/blob/main/law.csv"><b>⬇️ CSV (5.64K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/law-oneword-domains/blob/main/law.json"><b>⬇️ JSON (5.64K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=law-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.31K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Law-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Law-oneword-domains/blob/main/Law.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Law-oneword-domains/blob/main/Law.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Law-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (18.75K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -645,11 +645,11 @@ If you want to search & filters the complete database of [.LAW one word domains]
 | Travel             | 20,075       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 15,956       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=law-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Law-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/law-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=law-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Law-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Law-oneword-domains&utm_content=description.image)
         
