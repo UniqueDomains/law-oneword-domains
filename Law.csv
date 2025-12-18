@@ -1,38 +1,4 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
-e6bfeedc-7a4a-41c9-9bd2-99f1b0bef913,law.team,resell,82,42,3,Dynadot Inc,15/10/2016 10:27,15/10/2026 10:27
-8304790f-8b88-4575-bbc0-c9724f96672f,law.tennis,available,82,42,3,,,
-c4d06947-f7db-4f91-a5dc-053e2fc441f7,law.theatre,available,82,42,3,,,
-8dc66159-41b1-4116-a736-9cc4b9b0afbd,law.tickets,available,82,42,3,,,
-4033f302-8936-4319-90f4-ace064baa24a,law.tips,premium,82,42,3,,,
-3cc347bf-3827-42f7-87e8-7b646dc98db4,law.tires,available,82,42,3,,,
-29ed81a2-59b5-4925-9c0f-361f21f7712a,law.to,expiring,82,42,3,Government of Kingdom of Tonga,30/12/2014 03:16,30/12/2025 03:16
-ced46834-d7ef-481c-a054-761fd1372bb0,law.today,expiring,82,42,3,"DNSPod, Inc.",11/01/2024 04:30,11/01/2026 04:30
-33b02cdc-baae-49a0-9a56-797e8087613c,law.toys,available,82,42,3,,,
-f32600fe-aa0c-4562-a277-50d5a9fba416,law.training,premium,82,42,3,,,
-bf752b5f-96a9-41c2-9feb-73d270fde0dd,law.travel,resell,82,42,3,Dynadot Inc,28/02/2025 17:04,28/02/2026 17:04
-2b0d98ea-7494-4bfb-9f24-ffd7654dfd33,law.tube,expired,82,42,3,"Latin American Telecom, LLC",08/11/2017 19:27,08/11/2025 19:27
-aa796d74-8642-4502-a5f4-e65177c189e1,law.tv,resell,82,42,3,Dynadot Inc,01/10/2003 05:06,01/10/2026 05:06
-a62be482-0384-4b9d-a541-4f0f06a8ae71,law.uno,premium,82,42,3,,,
-de17fa65-f687-48bb-8ffe-c260cf25ad0c,law.vacations,premium,82,42,3,,,
-64a67817-9c3f-44db-a53f-dffb0ca3e261,law.vana,available,82,42,3,,,
-050088bb-11a9-496a-8222-704df45b22b4,law.ventures,premium,82,42,3,,,
-e0958f64-d8f6-4339-a9ad-27a931bbe987,law.vet,premium,82,42,3,,,
-bfa9d434-b6bc-4caf-8e39-9ae5a1e817c3,law.viajes,available,82,42,3,,,
-86a4a42d-a5ee-455f-84b8-91c9efec5469,law.villas,premium,82,42,3,,,
-6f3584c3-3904-4f91-847b-e7b90a85c576,law.vin,resell,82,42,3,"Chengdu West Dimension Digital Technology Co., Ltd.",25/01/2017 10:14,25/01/2027 10:14
-7855ba07-2c97-402c-a746-c5a67200a96e,law.vip,premium,82,42,3,,,
-5dd5424e-a8ae-47d6-9115-4fe2724ba047,law.vodka,premium,82,42,3,,,
-ab2d7e9c-e373-4881-92b8-52e52865d4af,law.voting,available,82,42,3,,,
-ec0f3909-ae57-4314-aa24-2ff54fb27080,law.voto,available,82,42,3,,,
-fd117c1d-de29-454c-b5ce-118fa4e125f6,law.voyage,available,82,42,3,,,
-d4b1aa19-8aca-4fc6-8a26-6999b68bac70,law.webcam,premium,82,42,3,,,
-dcf06308-0003-4fb8-b7e3-13a2ee7eb1b3,law.website,premium,82,42,3,,,
-e5f5f36d-6abb-4ad0-b165-0f00b2fef46f,law.wedding,premium,82,42,3,,,
-78eb6bd4-0c76-4fe4-b427-4ef90c65878f,law.world,expiring,82,42,3,GoDaddy Online Services Cayman Islands Ltd.,11/01/2015 16:00,11/01/2026 16:00
-7640e018-57fd-48d3-acd7-f2075d867faf,law.yachts,premium,82,42,3,,,
-2deee1a3-2e6a-443f-b251-fc93d6366987,law.yoga,expiring,82,42,3,"GoDaddy.com, LLC",28/12/2023 22:48,28/12/2025 22:48
-5440303a-8cc1-4ed6-814e-67caecfac3a7,law.you,premium,82,42,3,,,
-427ec24f-fd43-4637-8db6-6bf7963269f3,law.zip,premium,82,42,3,,,
 23f55188-3bd1-4309-8147-bd24f60addbf,law.ac,sold,82,42,3,united-domains GmbH,08/12/2009 22:44,08/12/2026 22:44
 e9e21f6a-e142-4412-a3f6-5e1fbdef7a76,law.accountants,premium,82,42,3,,,
 cc6ee97d-3845-4a23-b423-eabfa0afab84,law.actor,premium,82,42,3,,,
@@ -282,6 +248,40 @@ fe92d01e-abf0-4c77-87c4-3fbe930981c0,law.store,premium,82,42,3,,,
 1d71c549-dadb-4c76-beb8-b83980974d1b,law.surgery,premium,82,42,3,,,
 4664c180-b914-46bb-9f41-c27e934cc475,law.sydney,premium,82,42,3,,,
 e4ec901c-bcbc-43dd-bb1f-7b9aa50a5c07,law.talk,premium,82,42,3,,,
+e6bfeedc-7a4a-41c9-9bd2-99f1b0bef913,law.team,resell,82,42,3,Dynadot Inc,15/10/2016 10:27,15/10/2026 10:27
+8304790f-8b88-4575-bbc0-c9724f96672f,law.tennis,available,82,42,3,,,
+c4d06947-f7db-4f91-a5dc-053e2fc441f7,law.theatre,available,82,42,3,,,
+8dc66159-41b1-4116-a736-9cc4b9b0afbd,law.tickets,available,82,42,3,,,
+4033f302-8936-4319-90f4-ace064baa24a,law.tips,premium,82,42,3,,,
+3cc347bf-3827-42f7-87e8-7b646dc98db4,law.tires,available,82,42,3,,,
+29ed81a2-59b5-4925-9c0f-361f21f7712a,law.to,expiring,82,42,3,Government of Kingdom of Tonga,30/12/2014 03:16,30/12/2025 03:16
+ced46834-d7ef-481c-a054-761fd1372bb0,law.today,expiring,82,42,3,"DNSPod, Inc.",11/01/2024 04:30,11/01/2026 04:30
+33b02cdc-baae-49a0-9a56-797e8087613c,law.toys,available,82,42,3,,,
+f32600fe-aa0c-4562-a277-50d5a9fba416,law.training,premium,82,42,3,,,
+bf752b5f-96a9-41c2-9feb-73d270fde0dd,law.travel,resell,82,42,3,Dynadot Inc,28/02/2025 17:04,28/02/2026 17:04
+2b0d98ea-7494-4bfb-9f24-ffd7654dfd33,law.tube,expired,82,42,3,"Latin American Telecom, LLC",08/11/2017 19:27,08/11/2025 19:27
+aa796d74-8642-4502-a5f4-e65177c189e1,law.tv,resell,82,42,3,Dynadot Inc,01/10/2003 05:06,01/10/2026 05:06
+a62be482-0384-4b9d-a541-4f0f06a8ae71,law.uno,premium,82,42,3,,,
+de17fa65-f687-48bb-8ffe-c260cf25ad0c,law.vacations,premium,82,42,3,,,
+64a67817-9c3f-44db-a53f-dffb0ca3e261,law.vana,available,82,42,3,,,
+050088bb-11a9-496a-8222-704df45b22b4,law.ventures,premium,82,42,3,,,
+e0958f64-d8f6-4339-a9ad-27a931bbe987,law.vet,premium,82,42,3,,,
+bfa9d434-b6bc-4caf-8e39-9ae5a1e817c3,law.viajes,available,82,42,3,,,
+86a4a42d-a5ee-455f-84b8-91c9efec5469,law.villas,premium,82,42,3,,,
+6f3584c3-3904-4f91-847b-e7b90a85c576,law.vin,resell,82,42,3,"Chengdu West Dimension Digital Technology Co., Ltd.",25/01/2017 10:14,25/01/2027 10:14
+7855ba07-2c97-402c-a746-c5a67200a96e,law.vip,premium,82,42,3,,,
+5dd5424e-a8ae-47d6-9115-4fe2724ba047,law.vodka,premium,82,42,3,,,
+ab2d7e9c-e373-4881-92b8-52e52865d4af,law.voting,available,82,42,3,,,
+ec0f3909-ae57-4314-aa24-2ff54fb27080,law.voto,available,82,42,3,,,
+fd117c1d-de29-454c-b5ce-118fa4e125f6,law.voyage,available,82,42,3,,,
+d4b1aa19-8aca-4fc6-8a26-6999b68bac70,law.webcam,premium,82,42,3,,,
+dcf06308-0003-4fb8-b7e3-13a2ee7eb1b3,law.website,premium,82,42,3,,,
+e5f5f36d-6abb-4ad0-b165-0f00b2fef46f,law.wedding,premium,82,42,3,,,
+78eb6bd4-0c76-4fe4-b427-4ef90c65878f,law.world,expiring,82,42,3,GoDaddy Online Services Cayman Islands Ltd.,11/01/2015 16:00,11/01/2026 16:00
+7640e018-57fd-48d3-acd7-f2075d867faf,law.yachts,premium,82,42,3,,,
+2deee1a3-2e6a-443f-b251-fc93d6366987,law.yoga,expiring,82,42,3,"GoDaddy.com, LLC",28/12/2023 22:48,28/12/2025 22:48
+5440303a-8cc1-4ed6-814e-67caecfac3a7,law.you,premium,82,42,3,,,
+427ec24f-fd43-4637-8db6-6bf7963269f3,law.zip,premium,82,42,3,,,
 28cfa8f2-aaa9-4c3e-9b5d-33d3f6f63185,legal.app,resell,64,96,5,"Montenegro Domains, LLC",05/05/2018 16:00,05/05/2026 16:00
 6d574c3e-1ec7-4c99-b12f-719cd79fc07a,legal.at,sold,64,96,5,Vautron Rechenzentrum AG ( https://nic.at/registrar/610 ),,
 de6ed6b6-b6c8-4ebf-a528-7b696746de1d,legal.cloud,premium,64,96,5,,,
