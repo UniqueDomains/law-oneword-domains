@@ -69,7 +69,7 @@ print(df.head())
 | mix.law        | premium   | $412.50   | $151.99       | 66             | 45     | 3      | name.com              |
 | nationwide.law | available | $119.99   | $151.99       | 76             | 66     | 10     | name.com              |
 | mac.law        | resell    | —         | —             | 84             | 82     | 3      | GoDaddy.com, LLC      |
-| pop.law        | premium   | $412.50   | $151.99       | 82             | 43     | 3      | name.com              |
+| pop.law        | premium   | $412.50   | $151.99       | 82             | 44     | 3      | name.com              |
 | seventeen.law  | available | $119.99   | $151.99       | 84             | 62     | 9      | name.com              |
 | matt.law       | resell    | —         | —             | 72             | 71     | 4      | 101domain GRS Limited |
 | dental.law     | premium   | $1,150    | $1,150        | 90             | 36     | 6      | name.com              |
