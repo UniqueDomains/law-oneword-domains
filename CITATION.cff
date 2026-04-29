@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Available .LAW One-Word Domains"
+title: "Law One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
 version: "2026-04-29"
 date-released: "2026-04-29"
-url: "https://unique.domains/domains/tld/law"
+url: "https://unique.domains/domains/sector/Law"
 repository-code: "https://github.com/UniqueDomains/law-oneword-domains"
 license: "See LICENSE"
-abstract: "Daily-updated public extract of available and resale .law one-word domains from Unique Domains."
+abstract: "Daily-updated dataset of law one-word domains from Unique Domains."
