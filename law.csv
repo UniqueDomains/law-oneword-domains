@@ -479,6 +479,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2bf9b80c-ec8e-42f5-b9a2-22ada4f6f9a2,politicians.law,available,95.99,95.99,44,7,11,namesilo,,
 2c028942-2bc4-4ee0-856f-54c13f85f4ac,dataflows.law,available,95.99,95.99,52,5,10,namesilo,,
 2c123d28-027c-41a0-9e36-d78cba65efac,macaronicheese.law,available,119.99,,72,1,15,name.com,,
+2c3a3aa7-6098-4833-973a-bfc20dddf76f,adventure.law,resell,,,80,40,9,"GoDaddy.com, LLC",24/04/2025 20:00,24/04/2027 20:00
 2c427420-7372-4d7e-8462-bb452bb167dc,backbreaking.law,available,119.99,,54,1,13,name.com,,
 2c48f0ee-1f1b-44f5-a897-11aeb84ef125,alcohols.law,available,119.99,,50,4,8,name.com,,
 2c530cec-f186-4d2e-b7f0-22b0160c2019,getpast.law,available,119.99,,76,1,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59e40a86-2a0a-4f50-994b-eec99cbf1285,GodSavetheQueen.law,available,119.99,,76,3,18,name.com,,
 59efd02d-76dd-4db4-a02b-fa50b77bbc21,Jim.law,premium,6384,112,78,28,3,namecheap,,
 5a235e63-0a6a-4570-8f7c-b11769d153fa,counterterrorism.law,available,119.99,,52,3,17,name.com,,
-5a2ead0a-3f88-40b0-a927-652cff1daf2a,demotes.law,available,95.99,95.99,46,1,7,namesilo,,
