@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .law one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,590 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,590 domains · **Median ask:** $128.57 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,590 domains · **Median ask:** $134.19 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/law`  
+**Last updated:** 2026-06-14
+**Canonical page:** `https://unique.domains/domains/tld/law`
 **Best for:** founders, investors, studios
 
 ---
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
-| jewels.law       | available | $119.99   | —             | 80             | 15     | 6      | name.com              |
-| forces.law       | available | $119.99   | —             | 82             | 12     | 6      | name.com              |
-| getup.law        | available | $119.99   | —             | 82             | 15     | 6      | name.com              |
-| Apples.law       | available | $130.98   | —             | 90             | 16     | 6      | namecheap             |
-| edamame.law      | available | $95.99    | $95.99        | 80             | 9      | 7      | namesilo              |
-| QandA.law        | available | $130.98   | —             | 80             | 10     | 7      | namecheap             |
-| toneup.law       | available | $119.99   | —             | 80             | 5      | 7      | name.com              |
-| hangon.law       | available | $119.99   | —             | 82             | 6      | 7      | name.com              |
-| stirup.law       | available | $119.99   | —             | 82             | 3      | 7      | name.com              |
-| coins.law        | available | $119.99   | —             | 56             | 41     | 5      | name.com              |
-| adventure.law    | resell    | —         | —             | 80             | 40     | 9      | GoDaddy.com, LLC      |
-| Jim.law          | premium   | $6,384    | $112          | 78             | 28     | 3      | namecheap             |
-| neuroscience.law | available | $119.99   | —             | 80             | 37     | 12     | name.com              |
-| construction.law | resell    | —         | —             | 70             | 31     | 12     | 101domain GRS Limited |
-| bees.law         | premium   | $412.50   | —             | 54             | 27     | 4      | name.com              |
-| stories.law      | available | $119.99   | —             | 58             | 36     | 7      | name.com              |
-| referred.law     | premium   | $5,700    | —             | 52             | 6      | 8      | name.com              |
-| maps.law         | available | $119.99   | —             | 56             | 31     | 4      | name.com              |
-| generals.law     | premium   | $412.50   | —             | 52             | 6      | 8      | name.com              |
-| rewards.law      | available | $95.99    | $95.99        | 62             | 30     | 7      | namesilo              |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| both.law         | available | $95.99    | $95.99        | 80             | 13     | 4      | namesilo  |
+| term.law         | available | $95.99    | $95.99        | 112            | 17     | 4      | namesilo  |
+| getoutofhere.law | available | $119.99   | —             | 94             | 1      | 15     | name.com  |
+| crying.law       | available | $119.99   | $151.99       | 82             | 9      | 6      | name.com  |
+| pity.law         | available | $119.99   | $151.99       | 112            | 6      | 4      | name.com  |
+| walking.law      | available | $95.99    | $95.99        | 96             | 18     | 7      | namesilo  |
+| scrub.law        | available | $95.99    | $95.99        | 104            | 15     | 5      | namesilo  |
+| surfboard.law    | available | $119.99   | —             | 96             | 12     | 9      | name.com  |
+| worry.law        | available | $95.99    | $95.99        | 84             | 8      | 5      | namesilo  |
+| serious.law      | available | $95.99    | $95.99        | 80             | 26     | 7      | namesilo  |
+| billion.law      | available | $95.99    | $95.99        | 82             | 23     | 7      | namesilo  |
+| rare.law         | available | $95.99    | $95.99        | 110            | 40     | 4      | namesilo  |
+| nutritive.law    | premium   | —         | —             | 84             | 2      | 9      | —         |
+| headline.law     | available | $95.99    | $95.99        | 92             | 14     | 8      | namesilo  |
+| analysis.law     | available | $95.99    | $95.99        | 80             | 22     | 8      | namesilo  |
+| hello.law        | premium   | $1,150    | —             | 130            | 71     | 5      | name.com  |
+| blue.law         | available | $119.99   | —             | 92             | 59     | 4      | name.com  |
+| ted.law          | premium   | $412.50   | —             | 90             | 32     | 3      | name.com  |
+| accommodate.law  | available | $119.99   | —             | 92             | 7      | 11     | name.com  |
+| actual.law       | available | $119.99   | $151.99       | 96             | 28     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAW One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAW One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
