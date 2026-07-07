@@ -1,29 +1,29 @@
-# Available .LAW One-Word Domains (11,590)
+# One-Word Law Domain Names Across 506 TLDs (123,602)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C590%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-123%2C602%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .law one-word domains from Unique Domains.
+This selection includes 123,602 one-word law domain names spanning 506 TLDs, with a median asking price of $469. Updated daily, it covers legal terminology, contract-related words, and law-adjacent industry terms across mainstream and niche extensions alike.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,590 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **123,602 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,590 domains · **Median ask:** $133.97 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 123,602 domains · **Median ask:** $469.25 · **High-demand under $2,500:** 0
 
 **Last updated:** 2026-07-07
-**Canonical page:** `https://unique.domains/domains/tld/law`
+**Canonical page:** `https://unique.domains/domains/Law?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*law`
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/tld/law?utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/Law?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*law&utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./law.csv">CSV</a> / <a href="./law.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,15 +31,15 @@ Daily-updated public extract of available and resale .law one-word domains from 
 
 ---
 
-➡️ **Investors:** [Create a Radar from this .LAW search](https://unique.domains/domains/tld/law?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this .LAW search](https://unique.domains/domains/tld/law?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/Law?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*law&github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/Law?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*law&github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for Unique Domains' .LAW one-word domain catalog.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/Law?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*law`.
 
 ### Files
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| acne.law       | available | $95.99    | $95.99        | medium         | low    | 4      | namesilo         |
-| tap.law        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| ago.law        | premium   | $412.50   | $151.99       | medium         | low    | 3      | name.com         |
-| also.law       | available | $95.99    | $95.99        | high           | low    | 4      | namesilo         |
-| best.law       | resell    | —         | —             | high           | medium | 4      | Sav.com LLC      |
-| apt.law        | premium   | $412.50   | —             | high           | low    | 3      | name.com         |
-| back.law       | available | $95.99    | $95.99        | high           | low    | 4      | namesilo         |
-| change.law     | resell    | —         | —             | high           | medium | 6      | Name.com, Inc.   |
-| are.law        | premium   | $412.50   | —             | high           | low    | 3      | name.com         |
-| barn.law       | available | $95.99    | $95.99        | high           | low    | 4      | namesilo         |
-| family.law     | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
-| bed.law        | premium   | $412.50   | —             | high           | low    | 3      | name.com         |
-| blob.law       | available | $95.99    | $95.99        | medium         | low    | 4      | namesilo         |
-| merger.law     | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| bud.law        | premium   | $412.50   | —             | high           | low    | 3      | name.com         |
-| blue.law       | available | $119.99   | —             | high           | medium | 4      | name.com         |
-| system.law     | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| did.law        | premium   | $412.50   | —             | high           | low    | 3      | name.com         |
-| both.law       | available | $95.99    | $95.99        | high           | low    | 4      | namesilo         |
-| australian.law | resell    | —         | —             | high           | low    | 10     | Sav.com LLC      |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| act.enterprises  | available | $5.99     | —             | high           | low    | 3      | name.com                                                |
+| firm.marketing   | resell    | $9.99     | —             | high           | low    | 4      | GoDaddy.com, LLC                                        |
+| act.attorney     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                |
+| bar.holdings     | available | $64.99    | $64.99        | high           | low    | 3      | namesilo                                                |
+| act.llc          | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 17                                       |
+| act.esq          | premium   | $1,623.75 | —             | high           | low    | 3      | name.com                                                |
+| tax.enterprises  | available | $5.99     | —             | high           | medium | 3      | name.com                                                |
+| act.ltd          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
+| act.inc          | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo                                                |
+| case.enterprises | available | $5.99     | —             | high           | low    | 4      | name.com                                                |
+| tax.law          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
+| act.lawyer       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                |
+| case.holdings    | available | $64.99    | $64.99        | high           | low    | 4      | namesilo                                                |
+| tax.ltd          | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| act.limited      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                |
+| case.limited     | available | $14.99    | —             | high           | low    | 4      | name.com                                                |
+| case.pro         | resell    | —         | —             | high           | low    | 4      | GKG.NET, INC.                                           |
+| act.ltda         | premium   | $56.64    | $33.04        | high           | low    | 3      | namesilo                                                |
+| case.sarl        | available | $6.99     | $6.99         | high           | low    | 4      | namesilo                                                |
+| firm.agency      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 17                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,590 live domains                        |
+| 1,000-row public sample | 123,602 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -101,7 +101,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/tld/law?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/law?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/Law?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*law&github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/Law?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*law&github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -120,12 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This list of one-word .law domain names includes 11,590 entries across everyday words, industry terms, and short brandable options like rumcake.law, makeit.law, and adventure.law. The median asking price sits near $134, making the .law extension one of the more accessible legal-adjacent alternatives to .com. Whether you're evaluating these names for a law-related brand or scanning for undervalued one-word inventory, pricing and naming style vary widely across the set, from playful compounds to direct professional terms.
+This list gathers one-word domain names built around legal and contract terminology, drawn from 506 different TLD extensions. Names range from direct legal terms to broader compliance, agreement, and regulatory language, paired with extensions spanning real estate, finance, professional services, and more. With a median asking price near $469, the set spans both mainstream and niche TLDs, giving a wide view of how law-related one-word names are priced and positioned.
 
-- 11,590 one-word .law domain names, updated daily
-- Median asking price near $134 across the set
-- Names range from playful compounds to legal terms
-- Includes short, brandable options like makeit.law
+- Median asking price near $469 across this selection.
+- Covers 506 different TLD extensions, from .law to niche options.
+- Includes legal, contract, and compliance-related one-word names.
+- Mix of premium and affordable domains for quick evaluation.
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,14 +142,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAW One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live .LAW page](https://unique.domains/domains/tld/law?utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/Law?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*law&utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_law_oneword_domains&utm_content=top_api_docs)
