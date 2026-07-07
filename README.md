@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .law one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,590 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,590 domains · **Median ask:** $134.19 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,590 domains · **Median ask:** $133.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-14
+**Last updated:** 2026-07-07
 **Canonical page:** `https://unique.domains/domains/tld/law`
 **Best for:** founders, investors, studios
 
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LAW one-word domain c
 
 ### Files
 
-- `law.csv` — public CSV extract (1,000 rows)
-- `law.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `law.csv`, public CSV extract (1,000 rows)
+- `law.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| both.law         | available | $95.99    | $95.99        | 80             | 13     | 4      | namesilo  |
-| term.law         | available | $95.99    | $95.99        | 112            | 17     | 4      | namesilo  |
-| getoutofhere.law | available | $119.99   | —             | 94             | 1      | 15     | name.com  |
-| crying.law       | available | $119.99   | $151.99       | 82             | 9      | 6      | name.com  |
-| pity.law         | available | $119.99   | $151.99       | 112            | 6      | 4      | name.com  |
-| walking.law      | available | $95.99    | $95.99        | 96             | 18     | 7      | namesilo  |
-| scrub.law        | available | $95.99    | $95.99        | 104            | 15     | 5      | namesilo  |
-| surfboard.law    | available | $119.99   | —             | 96             | 12     | 9      | name.com  |
-| worry.law        | available | $95.99    | $95.99        | 84             | 8      | 5      | namesilo  |
-| serious.law      | available | $95.99    | $95.99        | 80             | 26     | 7      | namesilo  |
-| billion.law      | available | $95.99    | $95.99        | 82             | 23     | 7      | namesilo  |
-| rare.law         | available | $95.99    | $95.99        | 110            | 40     | 4      | namesilo  |
-| nutritive.law    | premium   | —         | —             | 84             | 2      | 9      | —         |
-| headline.law     | available | $95.99    | $95.99        | 92             | 14     | 8      | namesilo  |
-| analysis.law     | available | $95.99    | $95.99        | 80             | 22     | 8      | namesilo  |
-| hello.law        | premium   | $1,150    | —             | 130            | 71     | 5      | name.com  |
-| blue.law         | available | $119.99   | —             | 92             | 59     | 4      | name.com  |
-| ted.law          | premium   | $412.50   | —             | 90             | 32     | 3      | name.com  |
-| accommodate.law  | available | $119.99   | —             | 92             | 7      | 11     | name.com  |
-| actual.law       | available | $119.99   | $151.99       | 96             | 28     | 6      | name.com  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| acne.law       | available | $95.99    | $95.99        | medium         | low    | 4      | namesilo         |
+| tap.law        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| ago.law        | premium   | $412.50   | $151.99       | medium         | low    | 3      | name.com         |
+| also.law       | available | $95.99    | $95.99        | high           | low    | 4      | namesilo         |
+| best.law       | resell    | —         | —             | high           | medium | 4      | Sav.com LLC      |
+| apt.law        | premium   | $412.50   | —             | high           | low    | 3      | name.com         |
+| back.law       | available | $95.99    | $95.99        | high           | low    | 4      | namesilo         |
+| change.law     | resell    | —         | —             | high           | medium | 6      | Name.com, Inc.   |
+| are.law        | premium   | $412.50   | —             | high           | low    | 3      | name.com         |
+| barn.law       | available | $95.99    | $95.99        | high           | low    | 4      | namesilo         |
+| family.law     | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| bed.law        | premium   | $412.50   | —             | high           | low    | 3      | name.com         |
+| blob.law       | available | $95.99    | $95.99        | medium         | low    | 4      | namesilo         |
+| merger.law     | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| bud.law        | premium   | $412.50   | —             | high           | low    | 3      | name.com         |
+| blue.law       | available | $119.99   | —             | high           | medium | 4      | name.com         |
+| system.law     | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| did.law        | premium   | $412.50   | —             | high           | low    | 3      | name.com         |
+| both.law       | available | $95.99    | $95.99        | high           | low    | 4      | namesilo         |
+| australian.law | resell    | —         | —             | high           | low    | 10     | Sav.com LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set focuses only on one-word domains in the .law extension. The range includes generic terms, category words, acronyms, and brand-like strings such as Acup.law, WiFi.law, homes.law, and barup.law. Some names read clearly and are easy to remember. Others may carry obvious trademark exposure, especially names that match established brands or highly distinctive terms. When comparing these domains, start with commercial clarity: is the word credible in a legal context, easy to say, and usable without confusion? Then check price discipline against the median ask of 128.58. For founders, the goal is a memorable shortlist. For investors, the goal is clean risk-adjusted buyability.
+This list of one-word .law domain names includes 11,590 entries across everyday words, industry terms, and short brandable options like rumcake.law, makeit.law, and adventure.law. The median asking price sits near $134, making the .law extension one of the more accessible legal-adjacent alternatives to .com. Whether you're evaluating these names for a law-related brand or scanning for undervalued one-word inventory, pricing and naming style vary widely across the set, from playful compounds to direct professional terms.
 
-- Favor clear, generic words over obvious trademark conflicts
-- Short names can help recall, but relevance still matters most
-- Use the 128.58 median ask as a basic price reference
-- Check whether the word fits a credible legal positioning
+- 11,590 one-word .law domain names, updated daily
+- Median asking price near $134 across the set
+- Names range from playful compounds to legal terms
+- Includes short, brandable options like makeit.law
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAW One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAW One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
