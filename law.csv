@@ -3,7 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 26f57f5e-0a3d-434a-8121-fc909db2d991,biggovernment.law,available,95.99,95.99,medium,low,14,namesilo,,
 0604a84e-c38c-49e2-aee3-8512568b0605,barmy.law,available,95.99,95.99,low,low,5,namesilo,,
 8989da65-ca7e-4cf5-890d-fbdd21f5c195,quantity.law,available,95.99,95.99,medium,low,8,namesilo,,
-500b9cc3-8aa5-4467-963f-6a3fe0836bb4,standby.law,available,95.99,95.99,medium,low,8,namesilo,,
+500b9cc3-8aa5-4467-963f-6a3fe0836bb4,standby.law,available,95.99,95.99,low,low,8,namesilo,,
 859d782d-ffe1-4f3e-a85d-b8b49976972a,defined.law,available,119.99,151.99,medium,low,7,name.com,,
 fd62ab3b-586d-4def-bb75-602258de3cd8,both.law,available,95.99,95.99,high,low,4,namesilo,,
 27a118d7-e388-49af-b3b8-98c83f6d3d1c,anicteric.law,available,95.99,95.99,low,low,9,namesilo,,
