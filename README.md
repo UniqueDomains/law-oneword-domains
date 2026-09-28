@@ -1,10 +1,10 @@
-# Available .LAW One-Word Domains (22,312)
+# Available .LAW One-Word Domains (22,788)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C312%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C788%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .law one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,312 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,788 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,312 domains · **Median ask:** $128.52 · **High-demand under $2,500:** 37
+**Public extract:** 1,000 rows · **Live catalog:** 22,788 domains · **Median ask:** $129.90 · **High-demand under $2,500:** 39
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/law`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| afar.law    | available | $95.99    | $95.99        | medium         | low    | 4      | namesilo         |
-| joe.law     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| amy.law     | premium   | $422.40   | $96           | high           | low    | 3      | namesilo         |
-| akan.law    | available | $95.99    | $95.99        | high           | low    | 4      | namesilo         |
-| ray.law     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| cfo.law     | premium   | $422.40   | $96           | high           | low    | 3      | namesilo         |
-| also.law    | available | $95.99    | $95.99        | high           | low    | 4      | namesilo         |
-| sin.law     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| cup.law     | premium   | $422.40   | $96           | high           | low    | 3      | namesilo         |
-| amah.law    | available | $95.99    | $95.99        | medium         | low    | 4      | namesilo         |
-| rent.law    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| dye.law     | premium   | $5,700    | —             | high           | low    | 3      | name.com         |
-| ames.law    | available | $95.99    | $95.99        | high           | low    | 4      | namesilo         |
-| plain.law   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| emi.law     | premium   | $422.40   | $96           | high           | low    | 3      | namesilo         |
-| apsu.law    | available | $95.99    | $95.99        | medium         | low    | 4      | namesilo         |
-| common.law  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| few.law     | premium   | $429      | $104          | high           | low    | 3      | namecheap        |
-| asin.law    | available | $105.98   | $130.98       | high           | low    | 4      | namecheap        |
-| anaheim.law | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| afar.law    | available | $95.99    | $95.99        | medium         | low    | 4      | namesilo              |
+| joe.law     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC      |
+| amy.law     | premium   | $422.40   | $96           | high           | low    | 3      | namesilo              |
+| akan.law    | available | $95.99    | $95.99        | high           | low    | 4      | namesilo              |
+| sin.law     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC      |
+| cfo.law     | premium   | $422.40   | $96           | high           | low    | 3      | namesilo              |
+| also.law    | available | $95.99    | $95.99        | high           | low    | 4      | namesilo              |
+| rent.law    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC      |
+| cup.law     | premium   | $422.40   | $96           | high           | low    | 3      | namesilo              |
+| amah.law    | available | $95.99    | $95.99        | medium         | low    | 4      | namesilo              |
+| plain.law   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC      |
+| emi.law     | premium   | $422.40   | $96           | high           | low    | 3      | namesilo              |
+| ames.law    | available | $95.99    | $95.99        | high           | low    | 4      | namesilo              |
+| common.law  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC      |
+| few.law     | premium   | $429      | $104          | high           | low    | 3      | namecheap             |
+| apsu.law    | available | $95.99    | $95.99        | medium         | low    | 4      | namesilo              |
+| anaheim.law | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC      |
+| fey.law     | premium   | $412.50   | $151.99       | medium         | low    | 3      | name.com              |
+| asin.law    | available | $105.98   | $130.98       | high           | low    | 4      | namecheap             |
+| madison.law | resell    | —         | —             | high           | low    | 7      | 101domain GRS Limited |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,312 live domains                        |
+| 1,000-row public sample | 22,788 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 37 high-demand names under $2,500          |
+| Basic exported fields   | 39 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
