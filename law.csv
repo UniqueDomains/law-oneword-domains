@@ -1,7 +1,9 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 1ebbfdb4-f55e-4faf-adab-1dc986b67793,staircase.law,available,85.82,85.82,medium,low,9,dynadot,,,28/09/2026 20:32
 41e91e20-4ae9-417a-8ef8-9dd5feac05b4,grudge.law,available,83,83,high,low,6,spaceship,,,29/09/2026 19:05
+3329eacd-206f-470d-a7ab-dae13801ef53,fulda.law,available,85.82,85.82,medium,low,5,dynadot,,,02/10/2026 20:14
 6f5aa522-aeaf-4bda-9eb9-5167d047d8e1,happiness.law,available,105.98,130.98,high,low,9,namecheap,,,29/09/2026 22:08
+4739bb50-b775-4e38-9170-8938b661e5e5,wba.law,premium,341.75,83,medium,low,3,spaceship,,,02/10/2026 09:18
 d24e6e04-d34f-4f5c-ac0c-a17c5bfc3e61,scrubby.law,available,95.99,95.99,medium,low,7,namesilo,,,09/09/2026 23:39
 3aa63b1c-dd90-41c8-bd20-697583c10a41,buttermilk.law,available,95.99,95.99,high,low,10,namesilo,,,24/09/2026 11:20
 3fbdf1af-bd44-45ba-b6b8-be7241aebb22,downstream.law,available,105.98,130.98,high,low,10,namecheap,,,14/08/2026 17:59
@@ -13,6 +15,8 @@ f2f76b94-6630-4cbc-b9fa-db685f37588e,calender.law,available,83,83,medium,low,8,s
 b074d4f2-a904-4576-a97a-85850d691286,emptiness.law,available,83,83,medium,low,9,spaceship,,,29/09/2026 18:45
 5869e63a-90a0-4ab3-bedd-0d3d2e096ba3,intrigue.law,available,83,83,high,low,8,spaceship,,,30/09/2026 00:18
 8a6653d7-c967-449a-a5d4-ab85fd471133,infiltration.law,available,95.99,95.99,medium,low,12,namesilo,,,30/09/2026 23:19
+4295301b-28b5-4fe8-83bf-86ab5f5f971f,ceylon.law,available,83,83,high,low,6,spaceship,,,02/10/2026 14:38
+9567597f-92c1-4251-a2d5-637382cb8d54,unc.law,resell,,,high,low,3,,,,02/10/2026 07:11
 f1eef73a-3278-429f-9523-36bb81699d31,favoritism.law,available,95.99,95.99,medium,low,10,namesilo,,,24/09/2026 22:35
 3fbf091c-a15f-4c79-9bb3-b832fb94bc4a,diminish.law,available,105.98,130.98,medium,low,8,namecheap,,,01/10/2026 19:13
 d8d38cb4-feaa-4507-ba8f-9d24ab43567b,dci.law,premium,422.4,96,high,low,3,namesilo,,,02/10/2026 04:33
@@ -25,7 +29,7 @@ a46606cc-2245-447e-8ec4-73376779dd61,hierarchic.law,available,95.99,95.99,medium
 4d7811bf-a1f3-40f1-af08-e6ebc7b58529,sikkim.law,available,83,83,medium,low,6,spaceship,,,30/09/2026 02:52
 0cffa4c2-4d01-47cb-8311-a55a4332424f,albright.law,available,95.99,95.99,medium,low,8,namesilo,,,28/09/2026 12:24
 d96f62b3-b3d1-4741-b4d4-a3d9f5a8a54c,feeder.law,available,105.98,130.98,high,low,6,namecheap,,,12/08/2026 21:09
-3cf2559b-ffaa-42a7-a891-c8413c92ff46,yourselves.law,available,95.99,95.99,medium,low,10,namesilo,,,
+3cf2559b-ffaa-42a7-a891-c8413c92ff46,yourselves.law,available,95.99,95.99,medium,low,10,namesilo,,,03/10/2026 04:32
 64ef4be9-6a1d-4a96-a07d-7aa92afd39c2,orchestral.law,available,95.99,95.99,high,low,10,namesilo,,,04/09/2026 17:42
 e6b4866e-de43-41df-aa9a-ba6293be3708,bellboy.law,available,95.99,95.99,high,low,7,namesilo,,,23/09/2026 05:55
 5fc5d0f6-60fa-47a0-b005-35c527403671,creepy.law,available,95.99,95.99,high,low,6,namesilo,,,24/09/2026 01:42
@@ -38,7 +42,8 @@ cda3b706-82d0-43a3-abae-40b0f0ce6904,loveable.law,available,95.99,95.99,high,low
 986269c4-9fdd-4d9f-a769-6b1cdb2123b7,exogenic.law,available,95.99,95.99,medium,low,8,namesilo,,,17/08/2026 17:34
 925cc35f-7d37-44bb-b03d-4dd580d43f2b,veronica.law,available,83,83,high,low,8,spaceship,,,30/09/2026 02:57
 c9870f0b-c7c1-4582-9643-7b53988cfa3d,characteristic.law,available,119.99,,medium,low,14,name.com,,,
-abb4e0c8-334b-45c4-a679-108d0b8dfacd,rectangle.law,available,95.99,95.99,high,low,9,namesilo,,,30/09/2026 09:22
+abb4e0c8-334b-45c4-a679-108d0b8dfacd,rectangle.law,available,82.9,82.9,medium,low,9,porkbun,,,02/10/2026 21:37
+410924c4-9eb9-4c14-9764-d0c3ce7c5166,permissible.law,available,95.99,95.99,high,low,11,namesilo,,,02/10/2026 06:54
 524db8f9-99fb-46e2-9ae8-764177bd5454,probing.law,available,95.99,95.99,high,low,7,namesilo,,,22/08/2026 06:21
 9b04ac17-9e9a-4989-9a5f-745a64483e4b,evening.law,available,105.98,130.98,high,low,7,namecheap,,,24/09/2026 15:27
 d0486bc1-7998-4fde-acfd-fe9512714c76,amy.law,premium,422.4,96,high,low,3,namesilo,,,25/09/2026 16:39
@@ -82,6 +87,7 @@ d247c1a6-f101-4410-bc7b-b06f47417f35,shockingly.law,available,95.99,95.99,medium
 e9008b3e-4a02-49bd-8a7f-42ea57fa2d70,fascinated.law,available,105.98,130.98,high,low,10,namecheap,,,24/09/2026 17:12
 5c86565e-b270-4e57-8c3f-2344e5d9490b,mounted.law,available,95.99,95.99,high,low,7,namesilo,,,25/08/2026 08:34
 3f498f42-9ce7-4a30-9c92-c6cb7f59bf55,mixture.law,available,95.99,95.99,high,low,7,namesilo,,,25/09/2026 21:57
+8dbc52a9-70a5-48d2-9b3d-a5a9f24b9d56,haldeman.law,available,83,83,medium,low,8,spaceship,,,02/10/2026 20:18
 f8e3a737-539c-4700-a28f-cf271c9c6a45,walks.law,available,95.99,95.99,medium,low,5,namesilo,,,25/09/2026 16:37
 c7d0395f-211b-4849-97d9-140a6ace637d,illegible.law,available,105.98,130.98,medium,low,9,namecheap,,,21/08/2026 19:48
 16a3ad1a-a489-40b8-9681-c3f9264ade5c,material.law,available,95.99,95.99,high,low,8,namesilo,,,30/09/2026 23:30
@@ -125,6 +131,8 @@ d0299326-aacc-4976-b58a-0c4a84895898,communicated.law,available,83,83,medium,low
 d782cca8-b63d-488e-a321-0bb04a70d410,hebraic.law,available,95.99,95.99,medium,low,7,namesilo,,,21/08/2026 05:40
 5db63641-7dfb-4613-a4c9-b8dfcf961488,asin.law,available,105.98,130.98,high,low,4,namecheap,,,20/09/2026 14:15
 fc060225-70af-4a9f-9751-821262ab2e16,tetanic.law,available,95.99,95.99,medium,low,7,namesilo,,,11/09/2026 12:08
+f1844981-0058-41a2-a0f4-ad261394a6fe,cso.law,premium,341.75,83,high,low,3,spaceship,,,02/10/2026 21:32
+abe12639-02fd-43a4-ab8a-4f459d12277c,ghulam.law,available,83,83,medium,low,6,spaceship,,,02/10/2026 19:09
 b6e2a70b-c58e-4d45-b42e-83d9bbc89dc3,kensington.law,available,95.99,95.99,high,low,10,namesilo,,,30/09/2026 12:20
 8681129c-33e4-474e-be5d-c9bb1d399a98,unselected.law,available,105.98,130.98,medium,low,10,namecheap,,,12/09/2026 19:14
 d0a2817c-c766-4128-90df-da99573680bc,answering.law,available,95.99,95.99,high,low,9,namesilo,,,22/09/2026 05:38
@@ -136,7 +144,9 @@ f3336941-0e5e-42c2-9a40-d1ef056deb7e,nonesuch.law,available,105.98,130.98,medium
 5bf194d3-cc2b-4aa5-a424-c013bc86cd4f,crumbly.law,available,95.99,95.99,medium,low,7,namesilo,,,13/08/2026 09:02
 07a946b1-4ba8-488e-8427-0f385f036fb6,coed.law,available,95.99,95.99,medium,low,5,namesilo,,,12/08/2026 13:16
 6f5302a5-5e3e-47bd-ae0f-d24fc7865430,ancestry.law,available,95.99,95.99,high,medium,8,namesilo,,,08/09/2026 13:19
+7a406c85-1a80-44ca-8ba1-9798ff4d4cc4,carle.law,available,95.99,95.99,medium,low,5,namesilo,,,03/10/2026 03:51
 c39a26cb-d4a5-4f5e-9bda-78a37cfe54bc,gwyn.law,available,95.99,95.99,medium,low,4,namesilo,,,02/10/2026 05:09
+c197c57a-aa23-4798-affd-f30710f965ea,patrolling.law,available,83,83,high,low,10,spaceship,,,02/10/2026 07:25
 25d6f8f5-2d55-45b0-9d01-dbf9f3919821,mahler.law,available,105.98,130.98,medium,low,6,namecheap,,,29/09/2026 01:10
 b3fc7e6b-90ce-4980-afdb-1de50409813f,reunite.law,available,95.99,95.99,high,low,7,namesilo,,,01/10/2026 04:25
 841db423-007e-426f-a296-24a309624ffe,hereby.law,available,95.99,95.99,high,low,6,namesilo,,,15/09/2026 00:25
@@ -145,7 +155,7 @@ b3fc7e6b-90ce-4980-afdb-1de50409813f,reunite.law,available,95.99,95.99,high,low,
 ef203373-ed4b-4fbb-ba05-d8347cc4cf76,discrete.law,available,95.99,95.99,high,low,8,namesilo,,,14/08/2026 10:02
 6bba03ed-1df6-4276-9228-44ca0958623a,comal.law,available,105.98,130.98,low,low,5,namecheap,,,12/08/2026 18:23
 1c72d149-08b0-45c4-a82d-9ab831df1a11,echoes.law,available,105.98,130.98,medium,low,6,namecheap,,,19/09/2026 20:18
-0af83310-7ef1-4d0a-b936-808597eaedd2,playdate.law,available,95.99,95.99,high,low,9,namesilo,,,
+0af83310-7ef1-4d0a-b936-808597eaedd2,playdate.law,available,83,83,high,low,9,spaceship,,,02/10/2026 21:12
 4b769436-59f5-4122-b489-00c9e27629a9,emotional.law,available,95.99,95.99,high,low,9,namesilo,,,16/08/2026 15:56
 f44dca4a-09a0-4c51-94c1-7d1d4181b301,mentorship.law,available,83,83,high,low,10,spaceship,,,02/10/2026 02:09
 399b7a73-2404-4c42-b53e-1076d70f4093,candid.law,available,95.99,95.99,high,low,6,namesilo,,,11/08/2026 16:40
@@ -155,6 +165,7 @@ b5bf6aa9-95bd-4e27-9e84-14df3f2ac8df,parietal.law,available,95.99,95.99,medium,l
 8df3e1df-3512-4550-98a9-47967e8dc167,burnished.law,available,95.99,95.99,medium,low,9,namesilo,,,11/08/2026 10:59
 a9b6fbe7-2d2a-483e-9201-333d8ca43577,horizon.law,available,105.98,130.98,high,high,7,namecheap,,,19/09/2026 20:16
 8ead7b50-f5fd-4df6-b3db-662dcb7dd9af,ownerless.law,available,95.99,95.99,medium,low,9,namesilo,,,04/09/2026 22:18
+5af95a90-f5cb-4ac7-9016-eaff367211b8,cobham.law,available,83,83,medium,low,6,spaceship,,,02/10/2026 09:57
 e766877c-7e32-4ec0-9227-35e4d927ca5d,forcible.law,available,95.99,95.99,medium,low,8,namesilo,,,18/08/2026 11:19
 f04bfa37-ca8e-4222-a380-e6df586e6df0,erotic.law,available,95.99,95.99,high,low,6,namesilo,,,17/08/2026 12:42
 9e03d566-735d-45ba-a310-4dd884cb9e1d,borders.law,available,95.99,95.99,medium,low,7,namesilo,,,28/09/2026 23:27
@@ -168,7 +179,9 @@ a7d673e9-62d8-4de0-9712-f2f8b90deda4,tolstoy.law,available,95.99,95.99,medium,lo
 f5f0ece3-fb67-47da-bc4a-33589c5b9f2a,cheap.law,available,95.99,95.99,high,low,5,namesilo,,,23/09/2026 11:03
 fb24179f-fb4b-41be-816c-27a69f8de740,handgun.law,available,83,83,high,low,7,spaceship,,,01/10/2026 19:54
 338e17b1-197b-4a59-b2d4-422de8e7c1d4,sumerian.law,available,95.99,95.99,high,low,8,namesilo,,,11/09/2026 01:33
+0c8e2c4f-1ad5-42fe-a75f-f929b9f45b7a,salar.law,available,105.98,130.98,high,low,5,namecheap,,,02/10/2026 19:12
 ebecf6d5-443e-4c09-8b3d-16fda8b75394,trifle.law,available,95.99,95.99,high,low,6,namesilo,,,13/09/2026 08:07
+81273117-b53a-4af1-947c-8367cbe4d349,sailboat.law,available,95.99,95.99,high,low,8,namesilo,,,02/10/2026 16:41
 cd2f1b3f-07ed-4fb5-89d7-381b1b240d44,gyroscopic.law,available,105.98,130.98,medium,low,10,namecheap,,,20/08/2026 21:21
 0ab198f4-35b2-43fd-87e6-fb7a46ccbdae,nepali.law,available,95.99,95.99,high,low,6,namesilo,,,03/09/2026 15:37
 c1e40512-3532-4aeb-99a8-1f0f8cb18f10,pollution.law,premium,3153.3,96,medium,low,9,namesilo,,,23/09/2026 02:05
@@ -178,10 +191,12 @@ b53e8090-a980-4ff2-a0d8-e3af3cf64eff,transmitting.law,available,95.99,95.99,medi
 bcd80245-4002-46e1-b1d5-ef7505d42816,critique.law,available,83,83,high,low,8,spaceship,,,29/09/2026 12:05
 f6523d9b-fc7b-45d3-813a-ec1d2bd602d8,nails.law,available,95.99,95.99,high,low,5,namesilo,,,
 2d2081a4-cee3-4082-9ebe-dfecee63a829,crested.law,available,95.99,95.99,high,low,7,namesilo,,,13/08/2026 06:20
+cc5c3ae4-b324-499b-a6d8-639c42f5d4dc,analyte.law,available,105.98,130.98,medium,low,7,namecheap,,,02/10/2026 18:04
 b0e9314e-cbd4-4fe1-a617-61a0bd39a626,musically.law,available,95.99,95.99,medium,low,9,namesilo,,,15/09/2026 15:43
 dbd9c19b-8d46-4e46-87a6-2c1f8647b3cc,slapped.law,available,82.9,82.9,low,low,7,porkbun,,,29/09/2026 23:39
 16fdab85-bfae-4753-83ce-443b45857b2e,quantized.law,available,95.99,95.99,medium,low,9,namesilo,,,09/09/2026 07:30
 40393168-15e3-4a58-a7dd-752b010a34b8,betaine.law,available,105.98,130.98,medium,low,7,namecheap,,,23/09/2026 11:03
+5e866b30-1a1d-49eb-b13f-39045eebe437,omsk.law,available,85.82,85.82,medium,low,4,dynadot,,,02/10/2026 16:15
 9240ba2d-319d-4c88-950b-312d69febc27,rallies.law,available,95.99,95.99,medium,low,7,namesilo,,,02/10/2026 02:59
 fb6f3737-f88e-4dbb-b4f0-7dc4f46c2f68,trails.law,available,83,83,medium,low,6,spaceship,,,29/09/2026 11:32
 2dd176fe-e68d-4694-951d-1bce561b1ddc,insensitive.law,available,95.99,95.99,medium,low,11,namesilo,,,29/09/2026 03:19
@@ -200,10 +215,13 @@ c647ddb8-9cf7-4736-b910-595202cf09fa,goals.law,available,95.99,95.99,high,low,5,
 9a563643-5357-423f-996b-304d11262442,errol.law,available,95.99,95.99,medium,low,5,namesilo,,,30/09/2026 12:54
 ffc5e090-1afb-4952-abeb-af91bef205f2,stoneless.law,available,105.98,130.98,low,low,9,namecheap,,,10/09/2026 21:12
 c241ee2f-69e9-4efe-80c0-b3cf944750b8,cautionary.law,available,95.99,95.99,high,low,10,namesilo,,,
+7ae370ca-96a6-4303-b5a2-d25870d9a92e,vermin.law,available,83,83,medium,low,6,spaceship,,,02/10/2026 17:04
 306c8965-e7b7-487e-9f30-abc1b1ff172e,trance.law,available,83,83,high,low,6,spaceship,,,28/09/2026 13:44
 4172be4e-3d14-422d-81c2-08aeabc25c71,insert.law,available,95.99,95.99,high,low,6,namesilo,,,24/09/2026 20:42
 1630d95b-d73d-4bb9-a8cd-ab9086c82b1b,dances.law,available,95.99,95.99,high,low,6,namesilo,,,
 ab62c252-2202-4275-ae51-ec9c39bfda3e,xiii.law,available,105.98,130.98,high,low,4,namecheap,,,21/09/2026 11:34
+45f2a9fd-0880-4d90-9252-d7df6a103dee,penzance.law,available,95.99,95.99,medium,low,8,namesilo,,,02/10/2026 19:38
+ab0828fe-1c09-4b75-8fba-b39a8a5f00fb,joao.law,available,83,83,medium,low,4,spaceship,,,02/10/2026 10:59
 4f048204-9e72-4754-8221-5ae46be1a735,own.law,premium,422.4,96,high,high,3,namesilo,,,26/09/2026 03:33
 4eec6714-d168-43cf-95c9-3488ef181598,proponent.law,available,95.99,95.99,high,low,9,namesilo,,,17/09/2026 11:45
 bb399469-99d1-4d42-8eef-922f4b046856,contracts.law,premium,360.77,360.77,high,low,9,porkbun,,,28/09/2026 08:33
@@ -212,6 +230,7 @@ deebe506-206f-4f39-ac40-8b9a4fa6178f,referral.law,premium,363,85.82,high,low,8,d
 817f9e7d-c834-4155-9e91-bddda667cd71,hoy.law,premium,429,104,high,low,3,namecheap,,,22/09/2026 05:42
 f477ad8e-5486-4e03-a47a-b6c9e58abd2c,bidet.law,available,95.99,95.99,high,low,5,namesilo,,,23/09/2026 13:46
 a63fa2bc-6042-4027-8c9e-011902d1dd8f,wikimedia.law,available,,,high,high,9,,,,
+d369f2cc-abd4-46eb-9f32-5a33efbc481e,ussr.law,available,83,83,high,medium,4,spaceship,,,02/10/2026 16:40
 63777ea1-1ad7-4510-8a99-9320682ee1cd,prosy.law,available,95.99,95.99,medium,low,5,namesilo,,,08/09/2026 12:32
 8ace1ccb-2723-4fb4-ab8d-105874883e76,wash.law,available,95.99,95.99,high,low,4,namesilo,,,29/09/2026 00:22
 2701f018-fb5b-49ef-bccf-3173fa2b96e9,afar.law,available,95.99,95.99,medium,low,4,namesilo,,,13/09/2026 17:46
@@ -222,8 +241,10 @@ e5558b8a-e1c9-4702-b5bd-f99595d9f823,blain.law,available,95.99,95.99,medium,low,
 41b16483-53b7-4f15-a96d-42602e9649b6,bearing.law,available,105.98,130.98,high,low,7,namecheap,,,22/09/2026 18:34
 f4cb374b-7d4b-4d5d-ab02-3da4e1e0b462,chl.law,premium,341.75,83,high,low,3,spaceship,,,30/09/2026 04:21
 534f316b-19e1-4e1d-9d78-68681829ea8a,explode.law,available,83,83,high,low,7,spaceship,,,27/09/2026 16:32
+48e6edb7-2ac2-4964-8736-26adcb2dd1ef,deathbed.law,available,95.99,95.99,medium,low,8,namesilo,,,03/10/2026 00:26
 650c4a80-012d-4a77-a61f-144ac18b1c7c,spirits.law,premium,481.48,481.48,high,low,7,spaceship,,,29/09/2026 03:40
 0b2313ce-059e-4764-a0d9-c80d8da9482b,nappy.law,available,95.99,95.99,high,low,5,namesilo,,,18/08/2026 16:10
+e4d007f2-6b94-477f-8bc4-6ba73754845d,admirers.law,available,83,83,medium,low,8,spaceship,,,02/10/2026 12:50
 4d286a06-0711-4ea4-bb4c-8318854e9dfb,hardheaded.law,available,95.99,95.99,medium,low,10,namesilo,,,21/08/2026 00:26
 7a40a503-2ebe-4430-a86a-e5f1f575ecb5,kalimantan.law,available,105.98,130.98,high,low,10,namecheap,,,01/10/2026 18:45
 9186726e-103b-4840-a025-b490c2abb50b,benedick.law,available,95.99,95.99,medium,low,8,namesilo,,,23/09/2026 07:51
@@ -232,6 +253,7 @@ f4cb374b-7d4b-4d5d-ab02-3da4e1e0b462,chl.law,premium,341.75,83,high,low,3,spaces
 bee6b065-8a6e-4081-b3db-a8523be30a23,atypical.law,available,95.99,95.99,high,low,8,namesilo,,,07/08/2026 16:06
 e027b771-be96-4baa-9c80-df2522c38118,cfo.law,premium,422.4,96,high,low,3,namesilo,,,24/09/2026 13:41
 6856d387-7b11-47e0-a818-e453189eafeb,affairs.law,available,95.99,95.99,high,low,7,namesilo,,,17/09/2026 14:09
+880d6ed6-9ac7-4586-91cf-17aac44afdf7,ris.law,premium,341.75,83,high,low,3,spaceship,,,02/10/2026 19:00
 ae7ef895-7210-4d2b-a075-a2078e221bad,squad.law,available,95.99,95.99,high,low,5,namesilo,,,26/09/2026 00:04
 eafe1516-1661-420d-9631-03df198ddaa7,blinded.law,available,95.99,95.99,medium,low,7,namesilo,,,10/08/2026 14:24
 a46e1efb-a939-4b8f-a633-a7f86e44f978,podlike.law,available,95.99,95.99,medium,low,7,namesilo,,,08/09/2026 22:31
@@ -241,6 +263,7 @@ d216a196-097a-48c2-a7ab-db68bc92ceec,tubes.law,available,105.98,130.98,medium,lo
 85da61e4-0806-49e6-a40c-57f87298a4c7,sciolist.law,available,95.99,95.99,medium,low,8,namesilo,,,14/08/2026 07:43
 bc9c8ba5-6963-43c0-8061-a8f45c46b84f,gur.law,premium,422.4,96,medium,low,3,namesilo,,,13/09/2026 06:52
 b184f74a-43ef-4495-af8a-7b9ff5359333,servants.law,available,95.99,95.99,medium,low,8,namesilo,,,18/09/2026 01:39
+1e2312eb-c36d-42c8-a979-8701446e9ead,maisie.law,available,83,83,high,low,6,spaceship,,,02/10/2026 19:52
 f4b98977-a0e6-4538-9260-ee5f5154f79d,pentagon.law,available,95.99,95.99,high,low,8,namesilo,,,28/09/2026 06:34
 601f4345-d112-4aa6-b07d-e3826fe49c67,fey.law,premium,412.5,151.99,medium,low,3,name.com,,,16/08/2026 03:39
 02f027e3-2752-426c-b123-85144450f32a,netlike.law,available,95.99,95.99,medium,low,7,namesilo,,,03/09/2026 16:00
@@ -271,7 +294,7 @@ a57b7e03-615e-422e-a4cc-bc28572656db,taiping.law,premium,429,104,high,low,7,name
 822a9925-96e8-4961-bab0-c62fbb8ddfc7,navel.law,available,95.99,95.99,high,low,5,namesilo,,,23/09/2026 06:35
 d15fe94e-9ef6-4b2e-b8f6-c4a1bbc4285a,agonising.law,available,95.99,95.99,medium,low,9,namesilo,,,
 dff34e2e-5c3f-4ed2-97b5-a87435295920,inner.law,available,95.99,95.99,high,low,5,namesilo,,,22/08/2026 05:54
-c1d2bb50-8cc1-4cb1-b9be-9a1d383ce590,preceding.law,available,95.99,95.99,medium,low,9,namesilo,,,
+c1d2bb50-8cc1-4cb1-b9be-9a1d383ce590,preceding.law,available,83,83,medium,low,9,spaceship,,,02/10/2026 18:21
 7ba4fc25-dde8-46f1-b9d0-7e935ee17f3b,issuers.law,available,95.99,95.99,medium,low,7,namesilo,,,30/09/2026 07:32
 27f76327-a89a-4b50-a395-9ba59678d2c2,pods.law,available,82.9,82.9,high,low,4,porkbun,,,30/09/2026 00:30
 caa0d4fd-7486-4c4d-ace0-d77f92d2bca8,smallish.law,available,95.99,95.99,medium,low,8,namesilo,,,10/09/2026 11:46
@@ -280,10 +303,11 @@ caa0d4fd-7486-4c4d-ace0-d77f92d2bca8,smallish.law,available,95.99,95.99,medium,l
 1ab88c9e-a864-4702-b390-2ed4586ff192,barksdale.law,available,83,83,medium,low,9,spaceship,,,02/10/2026 00:54
 3a360a9e-dfdf-4db6-8406-b3fc55828509,rayleigh.law,available,83,83,medium,low,8,spaceship,,,29/09/2026 13:13
 d483293b-c65b-4000-93f9-6beb0b912b6b,commuter.law,available,95.99,95.99,high,low,8,namesilo,,,24/09/2026 16:39
-fa74dafe-16ff-404a-ae0c-773f7d59761e,movies.law,available,95.99,95.99,high,low,6,namesilo,,,
+fa74dafe-16ff-404a-ae0c-773f7d59761e,movies.law,available,95.99,95.99,high,low,6,namesilo,,,02/10/2026 21:58
 d4dd9130-7696-4536-98e2-eb1e9456ba65,lunger.law,available,95.99,95.99,medium,low,6,namesilo,,,12/08/2026 23:06
 d6365273-9076-4773-8d07-a43bdbb365cc,repeat.law,available,95.99,95.99,high,low,6,namesilo,,,24/09/2026 12:27
 3071e408-6433-4588-8be9-b8f3e48659a4,concessions.law,resell,,,medium,low,11,,,,30/09/2026 23:40
+61c84c6f-e67e-4ad7-9591-5260dd3798cf,pave.law,available,83,83,high,low,4,spaceship,,,03/10/2026 01:45
 1c22c520-6113-47f0-b668-b0bac1a0bcb3,effectual.law,available,95.99,95.99,high,low,9,namesilo,,,15/08/2026 14:20
 0446d375-4147-47ba-9960-c9acc33510dd,korzybski.law,available,95.99,95.99,medium,low,9,namesilo,,,18/09/2026 06:31
 8b6f261f-b6fa-481c-9221-fff68f99b48a,imposition.law,available,83,83,high,low,10,spaceship,,,02/10/2026 05:23
@@ -314,10 +338,13 @@ dd252ee1-5a63-4d87-a1d3-1a7d21063de7,snowden.law,available,83,83,medium,low,7,sp
 1cf8bede-fbf0-4b74-b242-f6de9f15f484,asama.law,available,95.99,95.99,medium,low,5,namesilo,,,20/09/2026 12:47
 a49b3577-ddc3-4fb9-93a7-3c69cd2d6e69,feeble.law,available,119.99,151.99,medium,low,6,name.com,,,13/08/2026 20:30
 96a4d8d5-7c51-4120-a6b2-e76667ae2264,axil.law,available,95.99,95.99,high,low,4,namesilo,,,21/09/2026 10:22
+d6708f38-8495-4d5a-ac8f-36eaca96978c,wieland.law,available,105.98,130.98,medium,low,7,namecheap,,,03/10/2026 02:22
 00c346e8-67c2-4455-bf50-9a1405a2f3ba,badgering.law,available,95.99,95.99,medium,low,9,namesilo,,,13/09/2026 13:19
+65a7fd4c-627a-47a3-a9bb-844542d2cbc1,piled.law,available,85.82,85.82,medium,low,5,dynadot,,,02/10/2026 12:34
 d1ba15cc-6c6d-48d7-9c1b-c2d31da94655,cased.law,available,105.98,130.98,high,low,5,namecheap,,,11/08/2026 20:04
 98c8fe90-d5eb-4455-8889-db677b03d658,goosey.law,available,95.99,95.99,medium,low,6,namesilo,,,14/08/2026 16:06
 fd0c5d75-f78b-408a-8ce7-1d75a358f3e2,appreciative.law,available,83,83,high,low,12,spaceship,,,01/10/2026 21:37
+9c263c5a-eac6-4541-84b4-3b66b088a820,scythians.law,available,83,83,medium,low,9,spaceship,,,02/10/2026 22:05
 1e210fae-a7b1-4f09-9e1e-fee192fa4a52,needing.law,available,83,83,high,low,7,spaceship,,,01/10/2026 10:18
 45e6ce71-a607-4690-87de-29bf6be3c7e9,sonic.law,available,95.99,95.99,high,low,5,namesilo,,,10/09/2026 14:09
 5782a4f4-fdfc-448a-86b4-d95806192946,chessman.law,available,105.98,130.98,medium,low,8,namecheap,,,24/09/2026 14:20
@@ -325,7 +352,7 @@ fd0c5d75-f78b-408a-8ce7-1d75a358f3e2,appreciative.law,available,83,83,high,low,1
 61b10c2f-3440-466a-acf9-9653097fc95c,ole.law,premium,341.75,83,high,low,3,spaceship,,,01/10/2026 21:54
 3769255b-8534-4939-8b96-6254377dbe80,plosive.law,available,95.99,95.99,medium,low,7,namesilo,,,04/09/2026 00:16
 8a138151-12c2-437d-b63d-2756d1fd228f,notebook.law,available,95.99,95.99,high,low,8,namesilo,,,28/09/2026 10:36
-7394da4f-121a-4261-afd1-15acdc61b6ae,lithe.law,available,105.98,130.98,high,low,5,namecheap,,,28/09/2026 07:58
+7394da4f-121a-4261-afd1-15acdc61b6ae,lithe.law,available,85.82,85.82,high,low,5,dynadot,,,02/10/2026 11:27
 d3ed32b5-f5b6-4ae8-a958-c8cfb20cac82,giddy.law,available,95.99,95.99,medium,low,5,namesilo,,,
 ec4b68a2-34f2-4365-a69b-829f7b8bc1cd,provisions.law,available,95.99,95.99,high,low,10,namesilo,,,08/09/2026 08:15
 5ca81485-6ddc-4f55-a84a-646d4b22401c,heroin.law,available,95.99,95.99,medium,low,6,namesilo,,,24/09/2026 22:03
@@ -333,6 +360,7 @@ ebfb601a-5d13-4deb-9968-c371e92c1f96,avulsion.law,available,95.99,95.99,medium,l
 c408b3e3-0e4d-4c7a-a37d-45742fdb5053,sin.law,resell,,,high,medium,3,"GoDaddy.com, LLC",14/08/2020 08:53,14/08/2027 08:53,26/09/2026 09:02
 75174709-5113-44d9-a936-7e4ddf436cf5,permanent.law,available,95.99,95.99,high,low,9,namesilo,,,22/08/2026 20:24
 9f75809d-e0ef-4d34-b636-bd5c4509b40b,centrical.law,available,95.99,95.99,medium,low,9,namesilo,,,12/08/2026 00:12
+53de1e3a-deff-4d97-a7cb-911d547adbfe,plywood.law,available,95.99,95.99,high,low,7,namesilo,,,02/10/2026 06:06
 61ba8ca3-31c6-4248-bc6e-a9b03da63bcc,educate.law,available,95.99,95.99,high,low,7,namesilo,,,02/10/2026 02:27
 ef5c3db5-5566-4bed-807b-7b03d0954357,aftercare.law,available,95.99,95.99,high,low,9,namesilo,,,17/09/2026 15:35
 c04f4a83-538c-4d1b-986d-71cc6e7b519a,ronnie.law,available,95.99,95.99,high,low,6,namesilo,,,27/09/2026 07:42
@@ -363,16 +391,19 @@ ed5fac0f-01fa-4545-a070-5a16ba161590,earthly.law,available,95.99,95.99,high,low,
 a9a8060d-374c-411c-9fd1-6cb9f442a608,loudoun.law,available,95.99,95.99,medium,low,7,namesilo,,,29/09/2026 22:41
 7757cc43-a35c-4e8c-b7e3-31522f74d669,pudgy.law,available,95.99,95.99,medium,low,5,namesilo,,,08/09/2026 22:24
 cc20974e-4ccd-443b-94ca-6962400bd36c,kathryn.law,available,95.99,95.99,high,low,7,namesilo,,,27/09/2026 07:34
+bc14ce74-c54d-4256-9f29-b77f1ac8aceb,ange.law,available,95.99,95.99,medium,low,4,namesilo,,,03/10/2026 04:42
 298ae4ef-2cef-4180-bb3c-5aecdbfcd622,throbbing.law,available,95.99,95.99,high,low,9,namesilo,,,11/09/2026 14:47
 ed1a46c1-5934-42f8-8653-74dd19fc449a,claimed.law,available,83,83,high,low,7,spaceship,,,27/09/2026 23:56
 59acc0b1-e5a5-40e0-94c1-74d0359f9e23,ames.law,available,95.99,95.99,high,low,4,namesilo,,,25/09/2026 12:32
+739d6039-ffd5-41ad-ad25-9b77539c5961,wic.law,premium,341.75,83,medium,low,3,spaceship,,,02/10/2026 12:30
 9ad1266a-6c81-4fa2-800c-d705addefa0f,plausible.law,available,105.98,130.98,high,low,9,namecheap,,,08/09/2026 20:55
+86de0851-c69f-406e-a925-ad7802b28e3c,meeks.law,available,83,83,medium,low,5,spaceship,,,02/10/2026 20:24
 92f958bf-87cc-4c00-b1a0-5f65f2e837f2,ned.law,premium,422.4,96,high,low,3,namesilo,,,25/09/2026 11:37
 ab80ea5a-48f1-486b-891d-dd7a6d16d51f,inimitable.law,available,95.99,95.99,high,low,10,namesilo,,,22/08/2026 05:23
 fcb6a7ae-e89e-453f-8cf4-283aa7eac197,ambergris.law,available,105.98,130.98,medium,low,9,namecheap,,,18/09/2026 16:37
 a01ae14d-8c81-4640-be87-9164ddad9853,reviewed.law,available,95.99,95.99,medium,low,8,namesilo,,,29/09/2026 05:52
 b36f1e2f-7f7f-430a-ac61-69d464a6887c,reef.law,available,105.98,130.98,high,low,4,namecheap,,,28/09/2026 10:48
-e3649c1d-1246-4da0-b9db-210b8a984416,sony.law,available,95.99,95.99,high,medium,4,namesilo,,,
+e3649c1d-1246-4da0-b9db-210b8a984416,sony.law,available,95.99,95.99,high,medium,4,namesilo,,,02/10/2026 08:46
 6049b469-0759-46c1-bfa9-c9cb029e280f,pacifist.law,available,95.99,95.99,high,low,8,namesilo,,,04/09/2026 22:35
 19df6819-ef49-414a-8d7f-50d7a391d045,allamerican.law,available,95.99,95.99,high,low,12,namesilo,,,01/10/2026 22:44
 7996a597-fc6e-4ed2-93a8-6e1e090b3803,tranquil.law,available,95.99,95.99,high,low,8,namesilo,,,11/08/2026 14:53
@@ -396,19 +427,23 @@ f619c067-8f59-4f0e-8de5-16d9c943920d,anonym.law,available,95.99,95.99,medium,low
 bd30c331-c0e1-405d-83d9-eb5d93349768,symbolic.law,available,95.99,95.99,high,low,8,namesilo,,,16/08/2026 09:31
 3ef6a9df-7f77-4357-95c5-f45533de7bf0,employs.law,available,83,83,medium,low,7,spaceship,,,02/10/2026 03:29
 1ed0bd56-6eea-4f38-99d8-4d20c9933eb9,nonfinite.law,available,105.98,130.98,medium,low,10,namecheap,,,03/09/2026 18:26
+158aafad-3bd6-4f4c-8280-ac124984ec65,vosges.law,available,83,83,medium,low,6,spaceship,,,02/10/2026 09:42
 36d6f993-b22f-416e-923b-ba430df680af,posts.law,available,95.99,95.99,medium,low,5,namesilo,,,19/09/2026 00:49
+4d325b9e-c87b-40bc-8a4b-71b1a16e364f,replication.law,available,105.98,130.98,high,low,11,namecheap,,,02/10/2026 11:17
 d894acbc-b5ae-4079-9910-a86de6edd9a6,impious.law,available,95.99,95.99,medium,low,7,namesilo,,,21/08/2026 22:21
 fd764b6c-0e58-47a1-aa27-4048a0e1b14d,personally.law,available,105.98,130.98,medium,low,10,namecheap,,,28/09/2026 15:35
 6a919f1f-62c7-4459-837c-cc8ba7606e24,pretender.law,available,105.98,130.98,high,low,9,namecheap,,,08/09/2026 19:12
 eaaae08c-965b-42a3-ad1f-ccee013e04f8,colorize.law,available,95.99,95.99,medium,low,8,namesilo,,,12/08/2026 17:34
 19fbd4b7-dd68-4884-a359-42c6dd8ca2f0,simons.law,available,83,83,high,low,6,spaceship,,,27/09/2026 20:33
+e30fd08d-ac7a-4eeb-8d98-c8d820357661,newhall.law,available,83,83,medium,low,7,spaceship,,,02/10/2026 11:10
 4c893224-c041-487a-ad92-194af97ddff3,rear.law,available,105.98,130.98,high,low,4,namecheap,,,22/09/2026 19:06
 413b8913-7454-444d-81f0-6174f3fc8254,least.law,available,95.99,95.99,high,low,5,namesilo,,,25/09/2026 13:24
 5ed7d550-ed4e-4751-9521-39224c769279,dispersal.law,available,95.99,95.99,high,low,9,namesilo,,,24/09/2026 22:58
+e1dd63fd-087b-45d0-ae6b-615114cde6af,raquel.law,available,95.99,95.99,high,low,6,namesilo,,,02/10/2026 08:53
 43c3403f-dec8-4a49-a09c-4c4f22ea27ba,chickenpox.law,available,95.99,95.99,medium,low,10,namesilo,,,24/09/2026 14:28
 ac810f6e-3da7-4689-9f1f-e3dbcebf54e8,promote.law,available,82.9,82.9,high,low,7,porkbun,,,28/09/2026 03:19
 0a62d303-8309-4a5c-a471-ee1db07168ef,prevailing.law,available,95.99,95.99,high,medium,10,namesilo,,,09/09/2026 01:27
-f416e933-8e00-409a-a055-7f0d34d04707,organization.law,available,95.99,95.99,high,low,12,namesilo,,,30/09/2026 13:36
+f416e933-8e00-409a-a055-7f0d34d04707,organization.law,available,83,83,high,low,12,spaceship,,,02/10/2026 23:35
 cd873e1b-4c89-4036-b925-85ba7d4f8483,bernini.law,available,95.99,95.99,high,low,7,namesilo,,,23/09/2026 09:56
 c17bfca9-04ce-4395-8b09-20127cd9b732,annwn.law,available,95.99,95.99,medium,low,5,namesilo,,,19/09/2026 11:09
 82803a8c-e48d-4b3e-936a-b3fb052ef074,lotic.law,available,95.99,95.99,medium,low,5,namesilo,,,24/08/2026 10:00
@@ -436,7 +471,7 @@ b280757e-a262-4aea-99d9-1ed8423c9a94,mentation.law,available,95.99,95.99,medium,
 1acf5b3e-fcd4-4014-8e81-e8d53709ea7d,salts.law,available,95.99,95.99,medium,low,5,namesilo,,,20/09/2026 01:25
 2fa22b2e-a265-4851-8bcb-281777de60f6,abatic.law,available,95.99,95.99,medium,low,6,namesilo,,,
 1669d31f-6c99-433b-afb1-e5852b2e78f8,blacksmith.law,available,95.99,95.99,high,low,10,namesilo,,,24/09/2026 03:09
-21e7517e-9ce1-4956-b093-94c65c844cff,quantities.law,available,95.99,95.99,low,low,10,namesilo,,,
+21e7517e-9ce1-4956-b093-94c65c844cff,quantities.law,available,105.98,130.98,medium,low,10,namecheap,,,02/10/2026 20:05
 d56b39c9-93ff-4376-a1b0-7f2c3f57944f,inconclusive.law,available,105.98,130.98,high,low,12,namecheap,,,30/09/2026 04:07
 85d120c4-d762-4176-8c69-4fcededa3adf,armoracia.law,available,95.99,95.99,medium,low,9,namesilo,,,20/09/2026 07:23
 6dcff974-38d8-4b19-b352-6492f0b4cd46,tramway.law,available,95.99,95.99,medium,low,7,namesilo,,,17/09/2026 12:48
@@ -466,8 +501,10 @@ ee5cbff7-08f3-4f61-8484-4c5c1b1671d9,ardour.law,available,95.99,95.99,medium,low
 8033f75c-2acb-481e-93cc-4bc7ff4ca2c8,svetlana.law,available,95.99,95.99,high,low,8,namesilo,,,02/10/2026 00:36
 6522d87a-16bc-4ead-a7fd-59ea413df6b2,christianity.law,available,83,83,high,low,12,spaceship,,,29/09/2026 15:11
 3b93af13-aceb-4685-8604-1a09c5e618f8,molding.law,available,95.99,95.99,medium,low,7,namesilo,,,24/09/2026 15:24
+002b2c95-0f7b-4640-8c5d-ce6eea96ec82,fiberglass.law,available,105.98,130.98,high,low,10,namecheap,,,02/10/2026 15:10
 4cee41c2-dda2-42cf-828e-2dc43b441030,committee.law,available,83,83,high,low,9,spaceship,,,29/09/2026 09:31
-c6f5918a-71ea-47f6-8d18-8b1ffba50c7e,arithmetic.law,available,85.82,85.82,high,low,10,dynadot,,,29/09/2026 07:54
+c6f5918a-71ea-47f6-8d18-8b1ffba50c7e,arithmetic.law,available,95.99,95.99,high,low,10,namesilo,,,02/10/2026 15:56
+9d4c99f4-b822-4147-912b-8025fd884d9a,dialects.law,available,105.98,130.98,medium,low,8,namecheap,,,02/10/2026 21:32
 e55a59e3-a30a-4fb5-b90e-eaca658b0bb5,slowcoach.law,available,105.98,130.98,medium,low,9,namecheap,,,10/09/2026 20:27
 6405c5ce-8776-4d72-b40b-37606533c543,knife.law,available,95.99,95.99,high,low,5,namesilo,,,25/09/2026 23:24
 7951c280-6ce0-4b91-8068-174a0d693653,baikal.law,available,105.98,130.98,high,low,6,namecheap,,,21/09/2026 18:54
@@ -491,6 +528,7 @@ e1e62604-a706-4814-9e1d-0c5baadc9313,ramate.law,available,95.99,95.99,medium,low
 e384ba11-8042-41ac-99e0-2959bf8830e6,pyramidal.law,available,95.99,95.99,medium,low,9,namesilo,,,09/09/2026 06:55
 e5956b14-4649-45f1-904f-91721dcd3447,skate.law,available,83,83,high,low,5,spaceship,,,28/09/2026 06:45
 10b583c4-c650-450a-94a8-7b7b68d4448d,declension.law,available,95.99,95.99,medium,low,10,namesilo,,,13/09/2026 13:21
+1734097e-5e36-47b5-bef9-a847bf366802,samarkand.law,available,95.99,95.99,medium,low,9,namesilo,,,02/10/2026 06:19
 18eda05f-2de2-45ee-b4a8-d505aaab1e69,whispering.law,available,95.99,95.99,high,low,10,namesilo,,,03/09/2026 11:10
 740cb322-a2b9-4991-8be9-76c63bead635,granitic.law,available,95.99,95.99,medium,low,8,namesilo,,,18/08/2026 08:22
 8fcfefcc-17ad-492b-a77a-0435cb37932a,knit.law,available,95.99,95.99,high,low,4,namesilo,,,30/09/2026 02:06
@@ -500,6 +538,7 @@ ac56625e-83ef-4936-a14c-4c727ef70dca,wichita.law,resell,,,high,low,7,,,,29/09/20
 a62c6764-6797-4473-95b0-b267069dfae4,distributor.law,available,83,83,high,low,11,spaceship,,,29/09/2026 08:54
 582982af-454f-4996-8036-5e1bdb849193,mcdonnell.law,available,105.98,130.98,medium,low,9,namecheap,,,27/09/2026 02:55
 10940746-b927-4840-86f6-a1900dd3e4a1,dolly.law,available,83,83,high,low,5,spaceship,,,27/09/2026 13:05
+3f9b24da-d213-45db-9a33-3997efefb342,spilling.law,available,85.82,85.82,high,low,8,dynadot,,,02/10/2026 13:21
 0ce5ce0e-534f-44cc-8ebe-e65327dbf4d4,attain.law,available,83,83,high,low,6,spaceship,,,30/09/2026 10:56
 302045d5-6dfa-4758-b220-9fe0e109d9d2,newspaper.law,available,82.9,82.9,high,low,9,porkbun,,,30/09/2026 05:38
 23e2c7a7-8e97-4152-b43f-383debd929d8,plump.law,available,95.99,95.99,high,low,5,namesilo,,,12/08/2026 07:35
@@ -524,11 +563,15 @@ dbf38a91-bb1b-4869-aff9-1ad6725db930,magnet.law,available,95.99,95.99,high,low,6
 76df51e0-34da-4026-b030-ac76b8a4d624,omaha.law,resell,,,high,low,5,,,,28/09/2026 14:49
 4cf4acd4-f34b-442d-a692-2e7ac7959d3b,recreated.law,available,95.99,95.99,medium,low,10,namesilo,,,09/09/2026 10:49
 ee1e17a1-5e39-496f-ba7b-9a696a5bad7f,revocation.law,available,95.99,95.99,high,low,10,namesilo,,,19/09/2026 11:02
+457d2498-d0b9-40ad-b826-7e5c3c7b8899,polarity.law,available,95.99,95.99,high,low,8,namesilo,,,03/10/2026 01:39
+fd37b56b-4a3b-46fd-b9f8-8a003871f56e,supplements.law,available,95.99,95.99,medium,low,11,namesilo,,,02/10/2026 14:12
 5767bada-1f79-44c4-877a-62ada67533f2,misuse.law,available,82.9,82.9,high,low,6,porkbun,,,01/10/2026 20:33
 92693026-e96a-4e00-8c75-2d1025a806a0,albuterol.law,available,95.99,95.99,medium,low,9,namesilo,,,18/09/2026 03:32
 142e3099-cc85-41a2-9c31-b8b432b31e76,coaching.law,available,83,83,high,low,8,spaceship,,,01/10/2026 18:50
+0b71d043-b984-4fc2-8757-d472ad889fa4,toyama.law,available,83,83,medium,low,6,spaceship,,,03/10/2026 05:23
 3cbfff98-eb8b-4982-ae92-31833a976276,overweight.law,available,95.99,95.99,high,low,10,namesilo,,,18/08/2026 08:04
 a32ba7b4-b24c-4031-9f6a-4f2a5327449c,motors.law,available,95.99,95.99,medium,low,6,namesilo,,,21/09/2026 01:16
+437c0b2a-313d-415e-9d07-837524386d67,istria.law,available,83,83,medium,low,6,spaceship,,,02/10/2026 19:43
 9cc2f552-e355-4747-89b4-16fdb1dd0793,selkirk.law,available,95.99,95.99,medium,low,7,namesilo,,,18/09/2026 05:50
 e2cd77a1-1942-4fa9-a7b5-9c4dac466af7,returned.law,available,83,83,high,low,8,spaceship,,,01/10/2026 19:02
 2858b66f-131c-437d-afaf-a0f03d53b6f6,unaware.law,available,95.99,95.99,medium,low,7,namesilo,,,22/08/2026 01:38
@@ -540,7 +583,7 @@ c6d07f01-de42-4a03-ad0b-6a3a13a22c26,spending.law,available,105.98,130.98,high,l
 27833900-2d41-4eb9-8c54-67d548622616,trivia.law,available,105.98,130.98,high,low,6,namecheap,,,01/10/2026 21:43
 82350da5-e401-4bfd-9778-09cb280b2bb4,riming.law,available,95.99,95.99,medium,low,6,namesilo,,,09/09/2026 16:55
 3a82e58a-9bc7-4e0e-a19a-86c331bbb8cd,framingham.law,available,83,83,medium,low,10,spaceship,,,30/09/2026 05:41
-036fc8a4-749f-4f17-a141-ff86e49a1aed,mix.law,premium,422.4,96,high,medium,3,namesilo,,,29/09/2026 03:11
+036fc8a4-749f-4f17-a141-ff86e49a1aed,mix.law,premium,429,104,high,medium,3,namecheap,,,02/10/2026 11:12
 0e89bd6e-0aef-43df-a1d6-e9a9092ebb9b,sorted.law,available,105.98,130.98,high,low,6,namecheap,,,20/08/2026 20:24
 0d92ce39-edb8-4f60-8d4e-02902f638636,dose.law,available,95.99,95.99,high,low,4,namesilo,,,29/09/2026 00:13
 926fa9e5-cf98-4fbc-835b-28c34d2919c5,procession.law,available,83,83,high,low,10,spaceship,,,29/09/2026 06:59
@@ -548,7 +591,7 @@ c6d07f01-de42-4a03-ad0b-6a3a13a22c26,spending.law,available,105.98,130.98,high,l
 88df5f31-2e09-4bc7-8ae2-078459d321fb,needy.law,available,95.99,95.99,medium,low,5,namesilo,,,24/09/2026 06:57
 2ba0bb0b-a4ce-4a8b-b38a-0a7dbbc10444,startling.law,available,105.98,130.98,medium,low,9,namecheap,,,10/09/2026 19:02
 1875a1a2-14c0-47ab-9ef0-4a0c5e49171b,blush.law,available,95.99,95.99,high,low,5,namesilo,,,13/08/2026 06:32
-779a6f5e-69a7-4224-a9db-af03be956e31,industrial.law,resell,,,high,low,10,"GoDaddy.com, LLC",14/08/2020 09:11,14/08/2027 09:11,26/09/2026 06:51
+779a6f5e-69a7-4224-a9db-af03be956e31,industrial.law,resell,,,high,low,10,"GoDaddy.com, LLC",14/08/2020 09:11,14/08/2027 09:11,02/10/2026 09:23
 bb726800-4280-4026-a68a-2a67ba7d2a4a,mythological.law,available,85.82,85.82,high,low,12,dynadot,,,30/09/2026 14:14
 e4526982-fa3b-4aa8-a7db-21c1c56a4349,during.law,available,95.99,95.99,medium,low,6,namesilo,,,01/10/2026 01:36
 5840c657-4b6e-4010-a89e-c0b0e800197e,props.law,available,83,83,high,low,5,spaceship,,,29/09/2026 07:55
@@ -557,6 +600,7 @@ e4526982-fa3b-4aa8-a7db-21c1c56a4349,during.law,available,95.99,95.99,medium,low
 0dd0d576-5ce4-4a6b-ab48-466d32175c40,instances.law,available,83,83,medium,low,9,spaceship,,,30/09/2026 23:59
 e0c701e1-3b4d-4579-a56a-bd865981d44c,otoscope.law,available,95.99,95.99,medium,low,8,namesilo,,,21/09/2026 04:28
 e75ae8fc-d69d-48f3-84c7-8576011fc44f,fore.law,available,95.99,95.99,high,low,4,namesilo,,,18/08/2026 11:26
+f9ab1e0e-2667-4e17-9eeb-0203a1be2515,expenditure.law,available,83,83,high,low,11,spaceship,,,02/10/2026 11:07
 6b2eba9f-488e-457f-8dd0-8e40f9aadf4d,sylvia.law,available,83,83,high,low,6,spaceship,,,27/09/2026 19:08
 d98ca128-df84-413f-a448-2951994ad711,sweetly.law,available,95.99,95.99,high,low,7,namesilo,,,11/09/2026 05:33
 0d767811-0def-4539-97d7-9eb6b40fd730,announce.law,available,83,83,high,low,8,spaceship,,,29/09/2026 22:10
@@ -571,6 +615,7 @@ c9866a88-eddd-4ac7-9cc9-c379a0d0879e,doctorial.law,available,95.99,95.99,medium,
 e5bb7ea4-752f-4823-8661-e9b15337c9ac,freeborn.law,premium,237.5,237.5,high,low,8,name.com,,,18/08/2026 14:53
 22515d4f-d42e-4deb-b3f7-4de2b215ecc8,gandhi.law,available,95.99,95.99,high,low,6,namesilo,,,29/09/2026 20:38
 eff91164-3a6c-4c87-8128-059a96047302,reduce.law,available,95.99,95.99,high,low,6,namesilo,,,24/09/2026 08:28
+d9f4dd0e-3b03-48cd-a9ac-80e06f27ec70,walsall.law,available,83,83,medium,low,7,spaceship,,,02/10/2026 20:19
 5bd2c850-1dd4-4f51-83d3-2c93b7f8656d,ascites.law,available,95.99,95.99,medium,low,7,namesilo,,,20/09/2026 13:17
 11891390-e5fb-4062-b05a-b136c38c5828,instyle.law,available,95.99,95.99,high,low,8,namesilo,,,17/09/2026 05:05
 8278005e-04ad-4784-b2c0-cd7a629de699,skillful.law,available,119.99,151.99,high,low,8,name.com,,,21/09/2026 17:27
@@ -588,8 +633,10 @@ efa5fe2a-077e-4d4a-acf7-07c790932de8,mehmet.law,available,82.9,82.9,medium,low,6
 69d3ded9-6ca6-4353-8e8d-2ab8fbaea3f8,myoid.law,available,95.99,95.99,low,low,5,namesilo,,,03/09/2026 12:10
 6f5d4d4d-be89-432a-8b93-8474374f7f3f,moderately.law,available,105.98,130.98,medium,low,10,namecheap,,,25/09/2026 12:00
 6aef9460-6781-46ee-a43d-cc65cac44e4a,members.law,available,95.99,95.99,high,low,7,namesilo,,,25/09/2026 17:16
+f544dd19-a49a-494c-9769-49b436a956bb,emigrant.law,available,83,83,high,low,8,spaceship,,,03/10/2026 00:39
 f2a1211a-42a7-4f9a-8f02-9336ba337cb6,lytton.law,available,105.98,130.98,medium,low,6,namecheap,,,30/09/2026 00:54
 55524d31-d4b8-4ed0-9e22-e628e6822b8e,loosely.law,available,85.82,85.82,medium,low,7,dynadot,,,28/09/2026 13:33
+4a59476b-b968-48c4-be5f-e37fe58b7a34,gust.law,available,95.99,95.99,high,low,4,namesilo,,,02/10/2026 15:37
 7a1548d4-50a4-4472-9f28-0da5cad3b25a,wealthy.law,available,95.99,95.99,high,low,7,namesilo,,,21/09/2026 21:57
 f771b6d2-66d1-47cd-b596-8af5b5b1e3fb,ballade.law,available,95.99,95.99,medium,low,7,namesilo,,,21/09/2026 22:41
 a9ed0520-12f6-418d-b914-6ae346ac26b1,jars.law,available,83,83,medium,low,4,spaceship,,,30/09/2026 07:13
@@ -599,6 +646,7 @@ f3cf0cc8-9648-4ac4-b406-c1b32ec5bbbd,acanthus.law,available,105.98,130.98,medium
 439cfc16-cea6-4dda-be41-465c9dfd5e4e,driveway.law,available,83,83,medium,low,8,spaceship,,,28/09/2026 13:54
 084a1755-c2d1-4199-9382-ff094221b5b4,carmine.law,available,95.99,95.99,high,low,7,namesilo,,,10/08/2026 15:02
 cbde6321-4288-4e6e-9627-6b1a5e9ffeba,aesthetics.law,available,95.99,95.99,high,low,10,namesilo,,,17/09/2026 13:37
+e222ce67-e0c6-4280-b5d4-14302041d5b8,aberdeenshire.law,available,85.82,85.82,medium,low,13,dynadot,,,02/10/2026 20:15
 015e4746-0ea8-4dcc-b76f-4a78db6cc0f3,prevents.law,available,95.99,95.99,medium,low,8,namesilo,,,29/09/2026 16:31
 b83065d2-ee86-4bb5-bc5b-8bd009048213,cant.law,available,95.99,95.99,medium,low,4,namesilo,,,13/09/2026 04:09
 771e1f83-5849-490f-a7a3-f8d1f5438f22,tibetan.law,available,95.99,95.99,high,low,7,namesilo,,,11/09/2026 15:23
@@ -614,6 +662,7 @@ f65f705c-57f4-4002-aa13-82f7f819279b,ladies.law,available,95.99,95.99,high,low,6
 00f65bbe-aa68-43de-b8a6-5e2432cb0b75,handicap.law,available,95.99,95.99,high,low,8,namesilo,,,24/09/2026 07:39
 73ee2a2c-f98c-4715-9459-44857c2f36ea,spiffing.law,available,95.99,95.99,high,medium,8,namesilo,,,10/09/2026 15:35
 f7a02adc-5614-4208-bfa9-1349ef685eab,kills.law,available,105.98,130.98,medium,low,5,namecheap,,,25/09/2026 21:19
+fb2b3bf2-fc6e-4563-87e5-26e9ca225e54,aisne.law,available,82.9,82.9,medium,low,5,porkbun,,,02/10/2026 20:10
 6f569f55-c299-4787-8ca6-45739380b3ea,harassed.law,available,95.99,95.99,medium,low,8,namesilo,,,21/08/2026 00:06
 9eb4fada-30d0-4b72-bd06-e319fb9bb562,thunderous.law,available,119.99,151.99,medium,low,10,name.com,,,13/08/2026 19:56
 e4c97c81-e58d-44a3-acdb-41769f84cdba,checkbook.law,available,95.99,95.99,high,low,9,namesilo,,,24/09/2026 13:57
@@ -621,9 +670,11 @@ de065531-e9ba-499f-9bcb-c9b5082bc33e,scalar.law,available,95.99,95.99,high,low,6
 0e73eeab-5c54-44c8-a2e5-de20a36323ec,being.law,available,105.98,130.98,high,low,5,namecheap,,,23/09/2026 04:18
 ee95056f-bf7d-412c-befa-47c94b41aac7,badges.law,available,95.99,95.99,medium,low,6,namesilo,,,29/09/2026 17:33
 95953de3-af1d-4287-b49b-082acba98305,cigarettes.law,available,105.98,130.98,medium,low,10,namecheap,,,25/09/2026 21:29
+23d2c8e2-22a8-4894-84d3-fbf5edbc509e,gallup.law,available,83,83,high,low,6,spaceship,,,03/10/2026 00:52
 98e59ad6-98a6-4757-ad1d-9d0f042f6966,serena.law,available,95.99,95.99,high,low,6,namesilo,,,29/09/2026 22:03
 57a6024b-ad2c-4808-b782-c2d29ad009c0,intrepid.law,available,95.99,95.99,high,low,8,namesilo,,,22/09/2026 12:24
 7693fe2d-c15f-4dd6-879a-a296194139c5,agone.law,available,105.98,130.98,medium,low,5,namecheap,,,
+0392952a-2aec-4dd9-a9dd-894fc6117252,fiasco.law,available,83,83,medium,low,6,spaceship,,,02/10/2026 14:49
 6ae65405-d65c-4838-97a4-a7492f3db426,crowded.law,available,95.99,95.99,high,low,7,namesilo,,,24/09/2026 02:10
 3edbea95-0be0-488c-9c93-00903af3bcb8,haa.law,premium,341.75,83,high,low,3,spaceship,,,30/09/2026 12:30
 af740671-e307-445e-bdb8-84377cb413cb,auditorium.law,available,95.99,95.99,high,low,10,namesilo,,,21/09/2026 03:13
@@ -632,19 +683,22 @@ e179f073-430a-4226-9087-716ce0503f79,planning.law,resell,,,high,low,8,,,,30/09/2
 9d63715a-bb40-4be5-8f12-32886275b8fa,philosopher.law,available,83,83,high,low,11,spaceship,,,28/09/2026 11:16
 91a4fdbd-8f8f-4d34-b9de-bdba5c90545a,rejection.law,available,83,83,high,low,9,spaceship,,,30/09/2026 09:31
 d9aac97a-7e52-4314-a718-ae01d2f51f88,concern.law,available,83,83,high,low,7,spaceship,,,29/09/2026 05:30
+297095a3-5633-4546-bcd7-6b45e59923ab,zacharias.law,available,85.82,85.82,medium,low,9,dynadot,,,02/10/2026 14:25
 73486e83-a7ff-44a7-9885-1deb1e355b0a,unmerited.law,available,95.99,95.99,medium,low,9,namesilo,,,12/09/2026 15:37
 d213888b-f63a-43e1-9015-be4463939f35,hayseed.law,available,95.99,95.99,medium,low,7,namesilo,,,21/08/2026 08:05
 b5e167d4-0a06-463e-8f51-01e4cb1a1eef,betula.law,available,105.98,130.98,medium,low,6,namecheap,,,23/09/2026 11:52
 82849cde-21bf-463c-982e-56884d816ed2,patience.law,available,95.99,95.99,high,low,8,namesilo,,,25/09/2026 06:07
 b6974c78-979c-436b-9a54-22697b7f0b36,sewing.law,available,83,83,high,low,6,spaceship,,,28/09/2026 10:54
+ddd5c47c-6a9c-41c4-a1b1-f62e27a7018d,freehold.law,available,83,83,medium,low,8,spaceship,,,02/10/2026 15:19
 15ce71de-54c6-4751-a319-cffca920e9b0,suicides.law,available,95.99,95.99,low,low,8,namesilo,,,02/10/2026 04:02
 de4a691b-3ade-4d3f-91bd-1cf276d6aa7d,infidelity.law,available,85.82,85.82,medium,low,10,dynadot,,,30/09/2026 01:58
-a2302e9c-5c6b-48d6-944a-6d982b3d33fd,atacama.law,available,95.99,95.99,medium,low,7,namesilo,,,
+a2302e9c-5c6b-48d6-944a-6d982b3d33fd,atacama.law,available,83,83,medium,low,7,spaceship,,,02/10/2026 13:31
 9ca92935-dde5-4fb0-a776-08e486ebc8a8,resort.law,available,83,83,high,low,6,spaceship,,,29/09/2026 22:04
 1b9411b0-f3b0-4dad-92ca-7fb0afdd5d29,aesthesia.law,available,95.99,95.99,medium,low,9,namesilo,,,17/09/2026 13:26
 61d9097f-fc77-47c6-9522-8cb89b34f769,honoring.law,available,83,83,high,low,8,spaceship,,,29/09/2026 13:04
 6783c939-1e9d-4f27-a10a-d91327b78f34,hexed.law,available,95.99,95.99,medium,low,5,namesilo,,,21/08/2026 07:51
 4235615c-6bf6-4a92-8dd5-60a467f1bdb3,plata.law,available,95.99,95.99,high,low,5,namesilo,,,27/09/2026 02:58
+21c61464-225d-45f8-b334-a32b1d5f2cfb,dav.law,premium,341.75,83,high,low,3,spaceship,,,02/10/2026 08:12
 a8573c40-11d1-4e2a-a50c-9a7506af5ca5,vineyard.law,available,95.99,95.99,high,low,8,namesilo,,,28/09/2026 20:44
 b1e02c35-3413-4dbb-98cd-c0498efde923,passe.law,available,95.99,95.99,medium,low,5,namesilo,,,14/08/2026 01:17
 3cd375e2-adaa-4a55-bae7-fb97d4f6fe40,bowels.law,available,95.99,95.99,medium,low,6,namesilo,,,01/10/2026 18:47
@@ -656,7 +710,7 @@ b250a97d-7a90-42d7-98ce-c068bb29b0e3,noted.law,available,95.99,95.99,high,low,5,
 144d2e74-2fb7-4da7-ae8d-576b328b60cf,annealing.law,available,95.99,95.99,high,low,9,namesilo,,,11/09/2026 10:58
 e4a17adf-6781-4147-8889-207631881a10,frustrate.law,available,105.98,130.98,medium,low,9,namecheap,,,24/09/2026 12:25
 eeae1a1e-0b77-4ca9-bc02-fa653051c713,submarines.law,available,105.98,130.98,medium,low,10,namecheap,,,29/09/2026 17:53
-a0eea333-93ba-4a0e-81dc-0f6ceedab462,summoned.law,available,95.99,95.99,medium,low,8,namesilo,,,
+a0eea333-93ba-4a0e-81dc-0f6ceedab462,summoned.law,available,95.99,95.99,medium,low,8,namesilo,,,03/10/2026 00:58
 092e564b-e7b4-44fe-b41b-314d8f92ea12,akan.law,available,95.99,95.99,high,low,4,namesilo,,,17/09/2026 23:50
 f545389b-db00-4767-82d8-cc5626a0b2da,gotha.law,available,105.98,130.98,medium,low,5,namecheap,,,30/09/2026 13:38
 b251e65c-b478-470a-9425-1a2d24f8010a,trophies.law,available,105.98,130.98,medium,low,8,namecheap,,,29/09/2026 17:40
@@ -691,6 +745,7 @@ b1b222b5-444a-4110-9514-af802e38bf8c,ninefold.law,available,95.99,95.99,medium,l
 e4a257c8-11f7-4683-8ffa-f66271699581,accommodate.law,available,95.99,95.99,high,low,11,namesilo,,,30/09/2026 23:34
 b638685c-feb3-413d-9577-d7ec122c1111,aplysia.law,available,105.98,130.98,medium,low,7,namecheap,,,19/09/2026 17:53
 031a3670-674c-4e4b-8c53-76f421697af4,oar.law,premium,360.77,87.86,high,low,3,porkbun,,,30/09/2026 05:58
+654a55ec-42d1-4a4b-bfcd-ff1ee2b73f10,eyelids.law,available,83,83,medium,low,7,spaceship,,,02/10/2026 22:28
 83f355b8-331c-4be9-83f7-bd5da92eec26,decreased.law,available,95.99,95.99,medium,low,9,namesilo,,,13/08/2026 22:08
 fd2f5183-1abb-402c-9986-21a52b377ca2,seared.law,available,95.99,95.99,medium,low,6,namesilo,,,10/09/2026 00:52
 b215274a-b812-42d2-b1f8-dd1799e81550,scrabble.law,available,95.99,95.99,high,low,8,namesilo,,,24/09/2026 23:30
@@ -705,13 +760,16 @@ c7e3a790-6acb-4c7b-b044-abba99439de8,putin.law,available,85.82,85.82,medium,low,
 73e283e6-7dfd-4ae7-80f4-7ccf540fb43e,dame.law,available,105.98,130.98,high,low,4,namecheap,,,24/09/2026 20:56
 69ade402-5a7f-4eaa-87af-d1fecc33d43b,allamanda.law,available,95.99,95.99,medium,low,9,namesilo,,,18/09/2026 09:50
 2771f315-6c29-4093-b4ee-8c5f50772d3d,pseudo.law,available,95.99,95.99,high,low,6,namesilo,,,09/09/2026 04:56
+fa2a81ad-550a-4882-933e-9152fbc92f51,hdtv.law,available,83,83,high,low,4,spaceship,,,02/10/2026 15:39
 405c62bf-5c3d-40d1-be5e-7536480741c5,rudiment.law,available,95.99,95.99,medium,low,8,namesilo,,,16/09/2026 14:36
 44b95c25-4e8f-4865-bf15-98834cf9ea06,boasting.law,available,95.99,95.99,medium,low,8,namesilo,,,02/10/2026 04:07
 128cb7f2-d6fb-4094-be20-ca15cdc98979,calmly.law,available,95.99,95.99,high,low,6,namesilo,,,14/09/2026 05:04
 029082fb-612d-4927-a13d-e70170da419e,rosaceous.law,available,105.98,130.98,high,medium,9,namecheap,,,09/09/2026 18:39
 8ffbdd41-c285-46e2-94f3-3691b9448e00,keynote.law,available,83,83,high,low,7,spaceship,,,30/09/2026 17:48
+e7169ed9-4ac4-4c3a-aeec-e3976f293292,calligraphy.law,available,85.82,85.82,high,low,11,dynadot,,,02/10/2026 11:27
 9957ae0e-eed6-456d-8804-c4dc95920046,keyless.law,available,95.99,95.99,medium,low,7,namesilo,,,22/08/2026 15:44
 22718ad5-ff10-4da5-af39-4c0b5283fbb7,tripped.law,available,95.99,95.99,medium,low,7,namesilo,,,01/10/2026 00:50
+9547b37c-e3fe-43e2-9e66-0eaace8c62e8,clippers.law,available,95.99,95.99,high,medium,8,namesilo,,,02/10/2026 22:42
 d27369d6-d2d3-408c-bc45-b09865dc1697,husky.law,available,95.99,95.99,high,medium,5,namesilo,,,09/08/2026 07:59
 7c27695d-518f-41a8-a3a0-cf436cbf53b7,absence.law,available,85.82,85.82,medium,low,7,dynadot,,,28/09/2026 17:04
 7ba37ed0-2a3f-4fa5-8ff8-8f99560cba67,wilde.law,available,105.98,130.98,high,low,5,namecheap,,,25/09/2026 09:39
@@ -737,6 +795,7 @@ ad2f5067-ef62-4d06-bed8-767208426fb8,residuum.law,available,95.99,95.99,medium,l
 e00d4831-a415-4a52-8090-cb4ab9b6c61e,tartaric.law,available,95.99,95.99,medium,low,8,namesilo,,,11/09/2026 08:48
 40f91010-39fa-46a8-86a9-fc98fe5e5abf,exploit.law,available,83,83,high,low,7,spaceship,,,28/09/2026 19:08
 da2b7545-9055-4a58-9bfe-8bc4a8b63611,snuggery.law,available,95.99,95.99,high,medium,8,namesilo,,,10/09/2026 12:53
+e856650f-592e-4b08-b678-5af663136ee4,fluttering.law,available,95.99,95.99,medium,low,10,namesilo,,,03/10/2026 00:47
 b6d4d163-619a-4675-9b62-ddcb8f398de4,elisabeth.law,available,95.99,95.99,high,low,9,namesilo,,,25/09/2026 14:58
 952cb60c-01c0-426c-ba68-4ed04d3be5bc,acrylamide.law,available,95.99,95.99,medium,low,10,namesilo,,,17/09/2026 04:00
 f8544052-c406-4c0b-9a58-42eb30395666,shaggy.law,available,95.99,95.99,medium,low,6,namesilo,,,11/08/2026 11:17
@@ -756,6 +815,8 @@ cf61d248-0bd4-46e6-90e4-31308ce50f71,merry.law,available,95.99,95.99,high,low,5,
 fbe9b7df-00a8-4a7c-a611-4747415b41a3,pyrogen.law,available,95.99,95.99,medium,low,7,namesilo,,,09/09/2026 07:01
 615d49e6-2c43-42bc-a483-bd772303e7a4,alizarin.law,available,95.99,95.99,medium,low,8,namesilo,,,18/09/2026 08:12
 a117ac70-53f0-4f22-98a8-66ab5f1b1913,stepson.law,available,95.99,95.99,high,low,7,namesilo,,,30/09/2026 12:01
+7e4910fa-d2da-43a0-b2db-2533c1c82a56,industrially.law,available,83,83,medium,low,12,spaceship,,,02/10/2026 18:27
+2d486ca8-eed0-48c7-a81f-8bd5624d4ebc,flavius.law,available,85.82,85.82,high,low,7,dynadot,,,02/10/2026 20:19
 2259a9af-4567-43d5-ba8c-68ed89caa136,molded.law,available,95.99,95.99,medium,low,6,namesilo,,,25/08/2026 03:46
 9b58f91e-c00e-444e-a90d-2cb0b334fdbc,logging.law,available,83,83,high,low,7,spaceship,,,29/09/2026 19:34
 81b0deea-74f6-4046-892e-4da8e6023143,soled.law,available,95.99,95.99,medium,low,5,namesilo,,,10/09/2026 13:35
@@ -765,6 +826,8 @@ a75e98d3-21ad-4e7e-8bbe-67c75de54b7b,blench.law,available,95.99,95.99,medium,low
 0bd942fb-d0f4-4424-a1fa-7779e03bec76,stubborn.law,available,95.99,95.99,high,low,8,namesilo,,,25/09/2026 23:51
 9083791f-f7e4-4b42-b9ae-922e51b6a058,purebred.law,available,95.99,95.99,high,medium,8,namesilo,,,09/09/2026 06:16
 e6b04a55-5757-4e6c-98f1-a65e2b39a55a,footwear.law,available,83,83,high,low,8,spaceship,,,01/10/2026 03:31
+bd6e5e62-1a27-46e5-9105-9a7f3936defa,isotope.law,available,95.99,95.99,high,low,7,namesilo,,,02/10/2026 15:49
+3820121a-6edf-4313-b1fe-9b8738829034,cecily.law,available,105.98,130.98,medium,low,6,namecheap,,,02/10/2026 19:48
 6048f8e0-3bb5-48c4-bee3-dff98e77a6e6,blear.law,available,95.99,95.99,medium,low,5,namesilo,,,10/08/2026 14:01
 8bb5e997-5eab-4ccd-a5c3-98f81daad857,awoke.law,available,83,83,medium,low,5,spaceship,,,30/09/2026 14:18
 18f30280-1a4b-4fe9-ad74-a20e8312435a,flexing.law,available,105.98,130.98,high,low,7,namecheap,,,01/10/2026 22:33
@@ -774,11 +837,13 @@ eca9f25f-17b4-4b33-a450-a8062130d51e,binate.law,available,95.99,95.99,medium,low
 ec7c75fa-0859-4d52-92ce-8c8a79b6e67f,visconti.law,available,159.99,159.99,medium,low,8,godaddy,,,30/09/2026 01:25
 0c728fe0-1026-4a69-94f8-e1cbd10d61e0,parameters.law,available,83,83,medium,low,10,spaceship,,,30/09/2026 00:21
 8696f7b2-7429-4d52-b37b-5d0c5312d7e7,bilsted.law,available,105.98,130.98,medium,low,7,namecheap,,,18/09/2026 20:49
+e7de30ac-411e-49a7-a277-58d0fd99339f,misconception.law,available,95.99,95.99,medium,low,13,namesilo,,,02/10/2026 11:17
 16529440-c887-406c-994d-250656b94aef,agnatha.law,available,105.98,130.98,medium,low,7,namecheap,,,17/09/2026 18:31
 c6e13504-84b9-4a9b-b9cf-e98e12937089,discourse.law,available,95.99,95.99,high,low,9,namesilo,,,23/09/2026 22:52
 a98403f7-05f9-4f0b-83a9-9b96c64c62a6,compressor.law,available,95.99,95.99,high,low,10,namesilo,,,30/09/2026 16:45
 9db7df88-f4e2-4d69-9d19-abd065706bb3,spew.law,available,95.99,95.99,high,medium,4,namesilo,,,10/09/2026 07:39
 3ba02a62-a057-4bf4-aa2e-6a328e145ef7,asinine.law,available,95.99,95.99,low,low,7,namesilo,,,07/08/2026 02:35
+a29095f9-1e00-49a2-b429-17f32a51f018,karlsson.law,available,83,83,medium,low,8,spaceship,,,02/10/2026 20:04
 20a9c05e-585a-4e13-8aec-682282d464fe,chronicle.law,available,105.98,130.98,high,low,9,namecheap,,,16/09/2026 23:05
 edc64e91-1b3a-4d9a-81a8-5a93c7fd7f6f,leisure.law,available,85.82,85.82,high,low,7,dynadot,,,01/10/2026 20:30
 ed3948ed-3b95-4be6-a038-f781309bca59,visions.law,available,83,83,medium,low,7,spaceship,,,27/09/2026 23:41
@@ -803,7 +868,10 @@ b4bde46f-7563-4430-9faa-2be6ded70e3b,liegeman.law,available,95.99,95.99,medium,l
 928bd435-3ac4-4b05-a956-6088a024901f,subscript.law,available,95.99,95.99,high,low,9,namesilo,,,11/09/2026 00:43
 fa8cbe08-7670-4e6b-87ed-da42059b01e7,trifid.law,available,95.99,95.99,medium,low,6,namesilo,,,11/09/2026 19:33
 9b0c88e5-7398-4e1d-9b70-2a9536b28870,consultants.law,available,95.99,95.99,medium,low,11,namesilo,,,01/10/2026 00:53
+4cc8b799-d5b3-4129-9a18-7d21c7648742,disillusioned.law,available,95.99,95.99,medium,low,13,namesilo,,,02/10/2026 07:38
 5d4d6d6f-9325-47b7-b7af-1bce6900f1e6,abettal.law,available,95.99,95.99,medium,low,7,namesilo,,,16/09/2026 15:18
+0dcea140-be9d-4bb8-94a4-d18eb04d6e6c,tacoma.law,premium,422.4,96,medium,low,6,namesilo,,,03/10/2026 02:13
+8f8a121d-f61e-43d2-ba7e-fc27fadd1b1e,intoxication.law,available,85.82,85.82,medium,low,12,dynadot,,,02/10/2026 11:06
 a8777fa1-033e-4d46-a219-a00e30918af7,glendale.law,resell,,,high,low,8,,,,01/10/2026 10:33
 a6c4f202-8b45-4f42-9fd4-c91e284cbcad,courteous.law,available,95.99,95.99,high,low,9,namesilo,,,24/09/2026 00:40
 d091485c-d9dc-4666-af04-277836ab71e7,disgraceful.law,available,83,83,medium,low,11,spaceship,,,30/09/2026 23:03
@@ -836,12 +904,14 @@ a3736a41-8c40-4e72-89f5-ca1e55767c3a,backlog.law,available,105.98,130.98,high,lo
 e32873f7-bdc6-4ffb-8370-7f509bc3112f,sawtooth.law,available,95.99,95.99,medium,low,9,namesilo,,,
 7ebd323f-f802-44a0-9439-834722e0e919,rotatable.law,available,105.98,130.98,high,medium,9,namecheap,,,09/09/2026 18:46
 f9810f49-fbb7-40ff-851d-740b5e7ef0d6,unauthorized.law,available,95.99,95.99,medium,low,12,namesilo,,,28/09/2026 22:49
+f2f5dabb-78b1-43f1-b7ae-4040ee87eaac,purpura.law,available,83,83,medium,low,7,spaceship,,,03/10/2026 01:46
 c6641ee0-3623-4f2f-b4e9-ce8eddf58be3,teller.law,available,105.98,130.98,high,low,6,namecheap,,,22/09/2026 02:23
-47bb32be-6b6d-483e-a626-b1da712ee04d,fitness.law,available,82.9,82.9,high,medium,7,porkbun,,,28/09/2026 07:35
+47bb32be-6b6d-483e-a626-b1da712ee04d,fitness.law,available,95.99,95.99,high,low,7,namesilo,,,02/10/2026 10:26
 e70de9eb-fb4b-4cf7-9da5-3eada2fe1261,logically.law,available,95.99,95.99,high,low,9,namesilo,,,15/09/2026 12:41
 3bcdd65c-8b9e-4779-aa71-5fb687f13834,tot.law,premium,422.4,96,high,low,3,namesilo,,,22/09/2026 00:39
 20cf2166-22cd-4688-a489-99a3653ad620,theobald.law,available,85.82,85.82,medium,low,8,dynadot,,,29/09/2026 15:20
 6eb0d04f-e108-4ad7-aaaa-4df77e35ad91,pectoral.law,available,95.99,95.99,medium,low,8,namesilo,,,08/09/2026 11:58
+49848feb-e900-41d9-8d69-611801836c45,putty.law,available,83,83,high,low,5,spaceship,,,02/10/2026 16:28
 5ba31c73-e022-4813-a7b8-226cad6d9934,heroine.law,available,83,83,high,low,7,spaceship,,,29/09/2026 07:16
 a3c2bd46-fea9-45cb-9a4a-f2a373549518,manzanita.law,available,95.99,95.99,medium,low,9,namesilo,,,20/09/2026 01:04
 14b58fa6-044d-43cb-8d08-f0427883957d,bart.law,premium,422.4,422.4,high,low,4,namesilo,,,22/09/2026 07:32
@@ -858,9 +928,12 @@ e6e4316d-bc34-4fd2-86a1-ffb880f8f8ff,encrypted.law,available,95.99,95.99,high,lo
 3a5ff9dd-a7f2-4009-9f06-7910f02ee633,biotin.law,available,119.99,151.99,high,low,6,name.com,,,23/09/2026 19:07
 b8b4f511-03fc-4732-90c1-530b407105a9,breathtaking.law,available,105.98,130.98,high,low,12,namecheap,,,01/10/2026 10:31
 1d09feb5-6831-41e3-b3f5-42b8bca2594a,aperea.law,available,95.99,95.99,medium,low,6,namesilo,,,19/09/2026 16:31
+41997fc7-5e95-4f89-95fe-570e00579cf3,minto.law,available,105.98,130.98,high,low,5,namecheap,,,02/10/2026 20:21
+a21a1ceb-d667-4cbf-8b46-f701a4d4a716,varney.law,available,83,83,medium,low,6,spaceship,,,02/10/2026 20:26
 68aae5e9-9cfd-420f-b3e0-a71aa7ea4ff6,devine.law,available,95.99,95.99,medium,low,6,namesilo,,,28/09/2026 17:34
 7bf402ee-eef0-4b4e-ace7-3e93a3b2bae4,natation.law,available,95.99,95.99,medium,low,8,namesilo,,,18/08/2026 08:34
 bb7e0ed3-dc71-4a83-ac41-45b729a39c73,shipwreck.law,available,95.99,95.99,medium,low,9,namesilo,,,01/10/2026 03:42
+fd70704c-947d-405f-a529-227ec8921e5b,multichannel.law,available,83,83,high,low,12,spaceship,,,02/10/2026 07:39
 30fc2abd-c483-4165-af33-6514adfe572f,willowy.law,available,105.98,130.98,medium,low,7,namecheap,,,20/08/2026 17:31
 22c38b49-2878-404a-9681-2ced2b44a693,inflicted.law,available,83,83,low,low,9,spaceship,,,30/09/2026 00:06
 0ba5d5af-c6eb-4c2c-900a-7a4d45f4e36c,airborne.law,available,105.98,130.98,high,low,8,namecheap,,,
@@ -876,14 +949,17 @@ bb7e0ed3-dc71-4a83-ac41-45b729a39c73,shipwreck.law,available,95.99,95.99,medium,
 b07850c3-7f5d-4a77-97dd-c30874bcc0c2,custer.law,available,159.99,159.99,medium,low,6,godaddy,,,28/09/2026 01:44
 f7be0960-cd73-4349-b378-33046c37260b,acarus.law,available,105.98,130.98,medium,low,6,namecheap,,,16/09/2026 21:38
 67def4a5-a851-4db6-b498-c068c2318d9c,brandy.law,available,95.99,95.99,high,low,6,namesilo,,,24/09/2026 08:12
+5b68f4a8-5f08-480e-94e5-e08f4f15c7e8,kita.law,available,83,83,high,low,4,spaceship,,,03/10/2026 06:01
 60f5c1e8-4ab3-47b5-8779-ed6e23f5bfa0,acris.law,available,95.99,95.99,medium,low,5,namesilo,,,17/09/2026 03:16
 ba1c4b1d-a442-4312-b303-eb3e7d559c7e,epicure.law,available,95.99,95.99,high,low,7,namesilo,,,17/08/2026 10:42
 5fbeb0d5-6518-49a2-b0af-4ae06214c281,springlike.law,available,95.99,95.99,medium,low,10,namesilo,,,10/09/2026 16:53
 787105dc-478f-4bfd-bb70-1e855ea99e0b,galician.law,available,105.98,130.98,high,low,8,namecheap,,,29/09/2026 12:26
 f061dedf-696e-407d-9b4f-fe9a56fd315b,luis.law,available,95.99,95.99,high,low,4,namesilo,,,25/09/2026 14:41
 1b54a19f-afbe-4b9f-bd07-2e8cd80fa704,stacy.law,available,95.99,95.99,high,low,5,namesilo,,,28/09/2026 07:44
+9dc04138-1178-4e8f-931e-7342b55522e4,brattleboro.law,available,83,83,medium,low,11,spaceship,,,02/10/2026 19:07
 0b64119b-3288-49af-9551-cb01ce015cef,declined.law,available,83,83,low,low,8,spaceship,,,28/09/2026 22:47
 5092ad6a-dd21-4783-a4c3-53b5c52be1b3,eastmost.law,available,95.99,95.99,medium,low,8,namesilo,,,14/08/2026 22:57
+f81a09dd-a753-4f56-9828-eb032fcc699a,birthdays.law,available,95.99,95.99,medium,low,9,namesilo,,,02/10/2026 22:50
 30b0910f-1694-442b-981b-73f6a8534f17,bingle.law,available,105.98,130.98,medium,low,6,namecheap,,,19/09/2026 16:38
 fe5a253c-f632-452e-9e53-b11b579c68d4,israelite.law,available,83,83,medium,low,9,spaceship,,,29/09/2026 01:21
 34c880b2-cb03-4157-950e-25be2696a39d,beingness.law,available,95.99,95.99,medium,low,9,namesilo,,,23/09/2026 04:19
@@ -892,7 +968,7 @@ c829c545-8ce0-49e7-a714-2bedb1e8f9ee,ptsd.law,available,85.82,85.82,medium,low,4
 17b64bcc-679b-4fbc-a954-ed7d51cf6422,rubbishy.law,available,105.98,130.98,high,medium,8,namecheap,,,09/09/2026 19:16
 5e1c76cc-1609-4713-a58e-b379d243f685,zheng.law,premium,429,104,medium,low,5,namecheap,,,28/09/2026 11:37
 e65336b0-6af2-49a8-b20e-a7036826a09d,nicene.law,available,95.99,95.99,medium,low,6,namesilo,,,03/09/2026 17:01
-cfd8e8ce-5c98-4a06-95bd-a0143f3251ce,permutation.law,available,119.99,,high,low,11,name.com,,,
+cfd8e8ce-5c98-4a06-95bd-a0143f3251ce,permutation.law,available,85.82,85.82,high,low,11,dynadot,,,02/10/2026 16:56
 4b73db70-5b4c-414a-bac8-db6813929d69,observatory.law,available,95.99,95.99,high,low,11,namesilo,,,29/09/2026 08:28
 b1a2d653-bcaa-4737-ba23-f5b99ca1231d,ideology.law,available,83,83,high,low,8,spaceship,,,30/09/2026 01:57
 693e10f5-0167-4c73-8c4e-9046fb65040f,synoptic.law,available,95.99,95.99,high,low,8,namesilo,,,11/09/2026 06:33
@@ -909,93 +985,17 @@ c5d83333-2851-468b-a86a-368d16ad3ec5,fairish.law,available,105.98,130.98,medium,
 e67b293b-f27d-4bad-b901-0defa0fc8a11,pornographic.law,available,85.82,85.82,medium,low,12,dynadot,,,29/09/2026 20:53
 a80417be-cb13-4afb-b60f-86525dfd6779,fishes.law,available,95.99,95.99,medium,low,6,namesilo,,,17/09/2026 06:49
 9cff436d-1c2a-46d6-9ad4-9931b414d9ac,baldr.law,available,105.98,130.98,medium,low,5,namecheap,,,21/09/2026 21:35
+c14b0b44-0d83-4b84-a0fc-f9713e24bf0c,sle.law,premium,341.75,83,high,low,3,spaceship,,,03/10/2026 00:29
 453eb7f0-d89c-421b-bd1c-fd1f3aa476ba,alarmingly.law,available,95.99,95.99,low,low,10,namesilo,,,13/09/2026 18:33
 30043b38-ad06-48b9-9544-949becd60647,earthworks.law,available,105.98,130.98,high,low,10,namecheap,,,29/09/2026 17:50
 f53477ec-913e-43f2-882f-4c5ef43e586b,toradol.law,available,95.99,95.99,medium,low,7,namesilo,,,17/09/2026 05:31
-91aeb592-2e55-48b3-a370-15e645986e3b,whoever.law,available,95.99,95.99,medium,low,7,namesilo,,,
+91aeb592-2e55-48b3-a370-15e645986e3b,whoever.law,available,95.99,95.99,medium,low,7,namesilo,,,02/10/2026 19:38
 da3733f7-c550-4f60-8c49-485c37687318,patient.law,available,95.99,95.99,high,low,7,namesilo,,,27/09/2026 03:04
 b60390cd-0a36-4f49-bd62-eedc77547184,porch.law,available,83,83,high,low,5,spaceship,,,27/09/2026 15:20
 35854471-5ed9-4b93-b61b-bccde8361ca2,sisal.law,available,95.99,95.99,medium,low,5,namesilo,,,17/09/2026 16:39
 538e1b68-c999-4d57-8c8b-ced162cd9fb7,ymca.law,available,105.98,130.98,high,low,4,namecheap,,,01/10/2026 22:15
 0dddd7f0-29da-4267-9840-b89f702e8864,abohm.law,available,95.99,95.99,medium,low,5,namesilo,,,16/09/2026 16:26
+bad323da-75aa-45d0-af0f-df10dc680c67,jacobin.law,available,95.99,95.99,high,low,7,namesilo,,,02/10/2026 15:49
 07c34eb8-7a41-43b5-9419-992c87ffeb73,suharto.law,available,83,83,high,low,7,spaceship,,,01/10/2026 03:56
 315e1e23-5ab3-496c-8270-d9181836f771,currency.law,available,95.99,95.99,high,low,8,namesilo,,,29/09/2026 13:06
 9356c570-a77e-4413-ade0-fde2f069d2e9,accipiter.law,available,95.99,95.99,medium,low,9,namesilo,,,16/09/2026 22:29
-b9e8a06e-3d51-452c-a6ed-c20b2fa6ed3e,unseeable.law,available,95.99,95.99,medium,low,9,namesilo,,,22/08/2026 09:08
-7315e41d-87d2-4478-964a-eb62c23b20d6,lacerate.law,available,105.98,130.98,medium,low,8,namecheap,,,22/08/2026 17:51
-cbb9aa28-e98f-45de-8058-95bb84f87066,weights.law,available,95.99,95.99,medium,low,7,namesilo,,,
-687741ed-d584-45ad-b31f-ffbeaed1a02e,lxxxi.law,available,95.99,95.99,medium,low,5,namesilo,,,
-d09d305e-7c83-4074-9567-1f9237f25543,suites.law,available,95.99,95.99,medium,low,6,namesilo,,,29/09/2026 17:41
-f482f271-18a5-4a85-8ea3-898b748fc4c8,thermal.law,available,95.99,95.99,high,low,7,namesilo,,,23/09/2026 12:37
-1592d040-c7bd-4065-8be7-f73d1993caec,lynchpin.law,available,95.99,95.99,high,low,8,namesilo,,,21/09/2026 15:18
-75cbc552-a78e-4929-a125-d57dd665839b,affirmer.law,available,95.99,95.99,medium,low,8,namesilo,,,17/09/2026 14:33
-5bd05354-c601-4b78-9e28-d83a87f78e7b,baritone.law,available,95.99,95.99,medium,low,8,namesilo,,,08/08/2026 19:36
-bdb94e18-35be-4c15-8c34-085271c523d8,concerns.law,available,95.99,95.99,medium,low,8,namesilo,,,27/09/2026 11:01
-97a6fe11-8e19-449a-bc09-5e4d81dbdbc6,piquant.law,available,95.99,95.99,medium,low,7,namesilo,,,17/08/2026 07:38
-91ba6815-55e8-41f8-b974-115c914bdde4,exaggerated.law,available,95.99,95.99,medium,low,11,namesilo,,,29/09/2026 14:24
-24d8e6c0-8acb-4ac9-834f-7a1ffcd6146d,maintains.law,available,95.99,95.99,medium,low,9,namesilo,,,30/09/2026 07:23
-820ec758-2811-4a8d-abf7-90c129ea6d81,cosmonaut.law,available,105.98,130.98,high,low,9,namecheap,,,20/09/2026 18:01
-83dfa723-37e7-408f-9613-257d1d661839,conjugate.law,available,95.99,95.99,high,low,9,namesilo,,,12/08/2026 22:11
-2401551d-3689-4281-8b87-898e987fd8d5,tremble.law,available,83,83,medium,low,7,spaceship,,,01/10/2026 21:40
-ceba6691-afd0-4e51-9d8d-2e41867af133,ignored.law,available,95.99,95.99,medium,low,7,namesilo,,,21/08/2026 18:34
-6bfe2d4d-a67d-4354-aaa3-853475c39eec,entrance.law,available,95.99,95.99,high,low,8,namesilo,,,22/08/2026 01:46
-c67e6aa5-867c-448c-aa3f-5ebbd77f41e6,elytra.law,available,95.99,95.99,medium,low,6,namesilo,,,29/09/2026 23:37
-b9362b3d-1eec-428c-be02-ae7fbfe8a933,terminus.law,available,95.99,95.99,high,low,8,namesilo,,,11/09/2026 11:48
-47806507-c6d8-462f-91b6-c7f7e2191273,allow.law,available,95.99,95.99,high,low,5,namesilo,,,06/08/2026 09:03
-4fe7b60b-47cc-405e-ac04-d8fec9532c78,malthusian.law,available,95.99,95.99,medium,low,10,namesilo,,,24/08/2026 14:17
-1068954c-001f-4937-8e72-e1dc0f4f6bdc,restrictions.law,available,83,83,medium,low,12,spaceship,,,29/09/2026 23:44
-a84d90f4-3e0c-46b7-b015-af0fa3621fc9,sequencing.law,available,105.98,130.98,high,low,10,namecheap,,,02/10/2026 03:03
-7ecd2d42-d285-43bc-bb50-da4015ddc1c1,noam.law,available,105.98,130.98,medium,low,4,namecheap,,,02/10/2026 00:46
-1eb3fc06-b3a4-42c6-8eca-31ee2bc5ff5b,monkshood.law,available,95.99,95.99,medium,low,9,namesilo,,,17/09/2026 02:11
-1d8ee1a1-35c1-4ed7-9d68-12467a58d4dc,archery.law,available,95.99,95.99,high,low,7,namesilo,,,20/09/2026 02:00
-31858ef9-0dde-4473-962b-702f848d1daa,bicolor.law,available,105.98,130.98,high,low,7,namecheap,,,09/08/2026 19:11
-4029a142-5671-4e01-9e80-15c9af895ea4,bangle.law,available,95.99,95.99,high,low,6,namesilo,,,22/09/2026 01:57
-b6118f6b-a017-4060-84b2-55d9a5bce62c,leftish.law,available,95.99,95.99,medium,low,7,namesilo,,,22/08/2026 22:47
-3f891931-1014-4711-befa-713aaed1dc94,romain.law,available,83,83,medium,low,6,spaceship,,,30/09/2026 20:14
-4a68e04b-3462-4344-9d37-05b57faef686,intentional.law,available,83,83,high,low,11,spaceship,,,28/09/2026 21:07
-1cc848f0-b953-4fa8-a5a9-8a8b38252369,maximal.law,available,105.98,130.98,high,low,7,namecheap,,,24/08/2026 17:54
-2c1de814-840f-433d-a393-7bd3ab0831b8,pathologic.law,available,95.99,95.99,medium,low,10,namesilo,,,14/08/2026 10:11
-aaec48ec-1f68-4bd0-a74c-71d473e8cc7a,aright.law,available,95.99,95.99,high,low,6,namesilo,,,13/09/2026 20:49
-bd2b15de-55be-4c44-91bd-8f5d77e5b206,kingly.law,available,95.99,95.99,medium,low,6,namesilo,,,22/08/2026 16:17
-9924813f-a8b1-46c2-8528-b03a46b7b92b,idyl.law,available,95.99,95.99,high,low,4,namesilo,,,08/09/2026 10:13
-8c329720-1c5a-40a0-aa59-50e2214e673d,dateless.law,available,119.99,151.99,medium,low,8,name.com,,,13/08/2026 18:42
-e303ae54-0c36-461c-8f88-24c52bea73bb,skanky.law,available,95.99,95.99,medium,low,6,namesilo,,,14/08/2026 10:49
-1b8e318f-a5d6-484f-98dc-08d19da735ae,snarly.law,available,95.99,95.99,high,medium,6,namesilo,,,10/09/2026 12:20
-38876c2f-8ecd-4ad6-af6f-a2b196afe1d8,crushed.law,available,95.99,95.99,high,low,7,namesilo,,,13/08/2026 09:11
-ee5f3ac6-32c6-4d16-a143-621c1cdb2d49,enchanting.law,available,105.98,130.98,medium,low,10,namecheap,,,09/08/2026 18:21
-cdb65cc0-3f46-44d0-879b-dbabe0b596a3,caspar.law,available,83,83,medium,low,6,spaceship,,,29/09/2026 06:16
-4638b196-b3b7-4c33-a842-d7bca87238d2,nts.law,premium,422.4,96,high,low,3,namesilo,,,01/10/2026 08:33
-eb56bb2e-13db-43c8-b46f-48679c864854,receives.law,available,95.99,95.99,medium,low,8,namesilo,,,18/09/2026 17:46
-f6b6cd0c-2791-43b9-9324-44e884de3237,sobbing.law,available,85.82,85.82,medium,low,7,dynadot,,,30/09/2026 02:55
-ec05d659-ff52-4b24-ab40-ea362ba3eacf,backup.law,available,95.99,95.99,high,low,6,namesilo,,,01/10/2026 17:07
-5a7d09c6-bf7b-45e6-b82a-0ee097370b2e,devotion.law,available,83,83,high,low,8,spaceship,,,29/09/2026 14:45
-cde58470-f348-4b1b-bc7a-0182d58bc966,seriously.law,available,95.99,95.99,medium,low,9,namesilo,,,28/09/2026 13:17
-c2f040fe-d3d6-4f84-a494-2c0f02c2a587,ral.law,premium,363,85.82,high,low,3,dynadot,,,30/09/2026 20:40
-a2d22722-6e0e-4b17-8af7-a803dddee31b,uncut.law,available,95.99,95.99,high,low,5,namesilo,,,12/09/2026 06:52
-7fbe46af-fb1b-4e4a-a217-b85a93ab1bc3,hash.law,available,95.99,95.99,high,medium,4,namesilo,,,29/09/2026 01:16
-801a8f41-b57a-478a-9201-286bb0569649,cytologic.law,available,119.99,151.99,medium,low,9,name.com,,,13/08/2026 14:39
-a01a322c-6f4a-46dc-86c0-723b70c4ab44,constants.law,available,105.98,130.98,medium,low,9,namecheap,,,21/09/2026 01:13
-bd640968-79d9-482f-b249-01c15bba0ad1,mini.law,available,105.98,130.98,high,high,4,namecheap,,,25/09/2026 20:20
-a06e1894-72ad-450e-8099-4a1a143bad54,flamboyant.law,available,95.99,95.99,high,low,10,namesilo,,,22/09/2026 12:57
-5c99f25e-f975-4102-b842-d96ee59cb4f7,rapturous.law,available,95.99,95.99,high,low,9,namesilo,,,14/08/2026 23:48
-56365a0b-2624-4c1e-8b1a-caef1b54a653,pyramidic.law,available,95.99,95.99,medium,low,9,namesilo,,,09/09/2026 06:57
-29b84735-a1c2-4bc5-9868-d317034333f8,alternator.law,available,95.99,95.99,medium,low,10,namesilo,,,18/09/2026 14:48
-c0c0e8d2-7c37-489e-a504-7022799dc424,institutions.law,available,85.82,85.82,medium,low,12,dynadot,,,29/09/2026 16:24
-69eb02ef-6d11-4666-b296-d244e0a7f762,eater.law,available,95.99,95.99,high,low,5,namesilo,,,19/09/2026 09:42
-0ba23603-75f4-4dce-9aec-2063903e56ec,bechamel.law,available,95.99,95.99,medium,low,8,namesilo,,,22/09/2026 22:33
-bbead942-c12a-40d2-81d9-d21e7c015665,goosebumps.law,available,95.99,95.99,medium,low,10,namesilo,,,19/09/2026 00:04
-ab923059-71f6-46f3-a0e3-be11a7bc9852,resinous.law,available,95.99,95.99,medium,low,8,namesilo,,,09/09/2026 15:13
-0fc1634a-b5c3-433f-9db1-59d8f4da58c6,undeniably.law,available,95.99,95.99,medium,low,10,namesilo,,,16/09/2026 09:52
-6e4c2614-a32f-45df-a2e6-4932c652203e,draws.law,available,95.99,95.99,high,low,5,namesilo,,,
-33d88430-363a-41ce-8281-c14cc58c2e2e,willa.law,available,105.98,130.98,medium,low,5,namecheap,,,01/10/2026 09:55
-2ef1425e-8eb6-4b2e-81cf-a627538f8497,greens.law,available,83,83,high,low,6,spaceship,,,29/09/2026 21:34
-0eab26d1-76e6-470e-86c6-069c4af6d120,teens.law,available,105.98,130.98,high,low,5,namecheap,,,30/09/2026 13:01
-590c6cfb-080c-4d77-be54-ed55b8821efd,ascendable.law,available,95.99,95.99,medium,low,10,namesilo,,,07/08/2026 00:35
-15dace14-e755-47fc-befc-50739b681663,picturesque.law,available,95.99,95.99,high,low,11,namesilo,,,01/10/2026 04:56
-45fd89e3-02b8-4e3d-b6c0-a2217a981998,barren.law,available,95.99,95.99,medium,low,6,namesilo,,,08/08/2026 20:57
-b4e1e129-5619-4c12-ba31-247c13b1da72,avifauna.law,available,95.99,95.99,medium,low,8,namesilo,,,21/09/2026 09:31
-01958fb7-b2d3-4832-b477-191bf300b3c8,jainism.law,available,83,83,medium,low,7,spaceship,,,02/10/2026 05:27
-071baea8-4dac-446b-80e6-36e07e63982c,rampantly.law,available,95.99,95.99,medium,low,9,namesilo,,,13/09/2026 11:58
-3b3d5c47-ebae-4100-a1bb-37aab8a101b6,objects.law,available,119.99,,medium,low,7,name.com,,,
-0e9e4297-60c4-4b9d-a827-2e43a15308a7,selflessly.law,available,105.98,130.98,medium,low,10,namecheap,,,13/09/2026 19:23
-0438d804-2c0c-4eb7-a186-f0d1e62686b6,sdf.law,premium,422.4,96,high,low,3,namesilo,,,01/10/2026 08:35
